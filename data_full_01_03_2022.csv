@@ -1,0 +1,1201 @@
+age,gender,is_war,opinion_war,region_text,confidence_gov_media,confidence_casualties,confidence_civillian_casualties,assignment_started_time,assignment_submitted_time
+young,woman,uncertain,negative,Россия,negative,negative,uncertain,1646066198.673,1646066223.245
+young,man,yes,negative,Бобров,positive,positive,yes,1646066199.188,1646066218.564
+young,man,yes,positive,чита,positive,positive,yes,1646066200.95,1646066228.847
+young,woman,yes,negative,Анапа,positive,uncertain,no,1646066203.081,1646066326.788
+young,woman,yes,negative,Стерлитамак ,negative,negative,no,1646066203.392,1646066248.165
+young,woman,uncertain,positive,Свердловская область,positive,positive,yes,1646066204.51,1646066289.056
+young,woman,uncertain,negative,москва,negative,uncertain,uncertain,1646066205.423,1646066246.537
+young,man,yes,positive,Свердловская область,positive,negative,uncertain,1646066213.756,1646066256.532
+young,man,yes,positive,Москва,positive,positive,yes,1646066216.713,1646066256.532
+young,man,yes,negative,Ульяновск,negative,negative,no,1646066222.636,1646066258.135
+kid,woman,yes,positive,Ульяновск,positive,negative,yes,1646066224.057,1646066305.77
+kid,woman,yes,negative,Санкт-Петербург ,positive,negative,uncertain,1646066227.303,1646066269.821
+young,man,uncertain,negative,Фролово,positive,uncertain,uncertain,1646066227.457,1646066292.569
+young,man,yes,positive,Домодедово ,negative,uncertain,yes,1646066229.155,1646066297.297
+young,man,uncertain,positive,Саратов,positive,uncertain,uncertain,1646066230.264,1646066271.104
+young,man,uncertain,positive,москва,negative,uncertain,uncertain,1646066231.058,1646066275.186
+young,woman,yes,negative,Муром,negative,negative,no,1646066239.416,1646066270.153
+kid,man,uncertain,positive,Ярославлская область,positive,uncertain,yes,1646066241.712,1646066290.074
+young,woman,uncertain,positive,иваново,positive,positive,yes,1646066266.548,1646066324.303
+young,man,yes,positive,Смоленск,negative,negative,yes,1646066267.637,1646066314.121
+young,woman,yes,positive,Например ,positive,uncertain,uncertain,1646066273.851,1646066375.967
+young,man,no,negative,Челябинск,negative,negative,no,1646066275.756,1646066317.476
+young,woman,uncertain,negative,Иваново,positive,uncertain,uncertain,1646066277.771,1646066317.84
+young,man,uncertain,positive,Москва,positive,uncertain,uncertain,1646066328.067,1646066385.492
+kid,woman,yes,negative,Уфа,positive,positive,no,1646066329.641,1646066361.492
+kid,man,yes,positive,Московская область,negative,uncertain,yes,1646066339.699,1646066382.689
+young,woman,uncertain,negative,Новгород,negative,uncertain,uncertain,1646066362.083,1646066408.915
+young,woman,no,positive,Сочи,negative,positive,yes,1646066363.634,1646066401.815
+young,woman,uncertain,positive,Москва,positive,uncertain,yes,1646066363.202,1646066470.778
+young,woman,yes,negative,Ростовская обл,positive,uncertain,yes,1646066364.731,1646066482.989
+kid,woman,yes,negative,Самара,negative,uncertain,no,1646066366.466,1646066439.818
+kid,man,no,positive,Сасово,positive,positive,no,1646066370.297,1646066389.456
+young,man,uncertain,negative,Омск,negative,uncertain,uncertain,1646066371.378,1646066410.006
+young,woman,uncertain,negative,Башкортостан,negative,negative,no,1646066380.642,1646066435.61
+young,woman,uncertain,positive,Владимир,positive,uncertain,yes,1646066389.656,1646066429.61
+young,woman,yes,negative,Казань,negative,negative,no,1646066398.343,1646066476.71
+young,man,yes,negative,Москва/Ижевск (На 2 города),negative,negative,no,1646066409.633,1646066447.146
+young,woman,uncertain,positive,Московская область,negative,positive,yes,1646066413.673,1646066453.875
+kid,woman,uncertain,positive,Воронеж ,positive,uncertain,yes,1646066418.406,1646066470.723
+aged,woman,uncertain,positive,Казань,negative,negative,uncertain,1646066420.458,1646066475.4
+young,man,no,positive,Коаснодао,positive,positive,yes,1646066421.141,1646066488.729
+young,woman,yes,negative,Татарстан,negative,negative,no,1646066441.096,1646066471.05
+young,man,yes,negative,Набережные Челны,negative,negative,no,1646066467.5,1646066491.469
+kid,woman,no,negative,владимир ,negative,uncertain,no,1646066468.703,1646066538.057
+kid,man,uncertain,negative,Магнитогорск,positive,uncertain,uncertain,1646066482.796,1646066552.122
+young,woman,yes,positive,Москва ,negative,negative,no,1646066488.494,1646066528.244
+kid,man,yes,positive,Санкт Петербург ,positive,positive,yes,1646066517.577,1646066586.865
+young,man,uncertain,negative,Москва,positive,uncertain,yes,1646066526.126,1646066584.455
+young,woman,uncertain,negative,москва,negative,negative,uncertain,1646066531.987,1646066550.416
+kid,man,uncertain,negative,Москва ,negative,uncertain,uncertain,1646066535.219,1646066596.076
+young,woman,no,positive,Нижний Новгород,positive,positive,yes,1646066544.657,1646066589.492
+young,man,no,positive,Таганрог,positive,negative,yes,1646066554.842,1646066590.812
+kid,woman,uncertain,negative,Донецк ,negative,negative,no,1646066570.247,1646066658.296
+kid,woman,yes,positive,Щитьд,positive,negative,yes,1646066572.2,1646066607.523
+kid,woman,yes,negative,Москва,negative,uncertain,no,1646066578.012,1646066637.762
+young,man,uncertain,negative,Воронеж,positive,uncertain,uncertain,1646066580.28,1646066639.751
+young,woman,uncertain,negative,Москва,positive,uncertain,uncertain,1646066581.443,1646066645.044
+young,man,no,positive,Тамбов,positive,negative,yes,1646066582.449,1646066624.996
+young,woman,yes,negative,владимир,negative,negative,no,1646066583.902,1646066617.218
+young,woman,yes,negative,Санкт-Петербург,negative,negative,no,1646066585.528,1646066623.185
+young,woman,uncertain,negative,Джанкой ,negative,negative,uncertain,1646066587.561,1646066689.174
+young,man,uncertain,positive,Волгоград,positive,uncertain,yes,1646066619.425,1646066677.816
+young,woman,yes,negative,Владимир,negative,uncertain,no,1646066642.571,1646066684.878
+young,man,yes,negative,Россия,positive,positive,uncertain,1646066645.051,1646066693.127
+young,woman,yes,negative,Москва,negative,negative,no,1646066648.757,1646066691.511
+young,woman,uncertain,negative,москва,negative,negative,uncertain,1646066656.868,1646066665.843
+young,woman,yes,negative,Москва ,negative,negative,no,1646066664.035,1646066697.431
+young,woman,uncertain,positive,Нижний Новгород ,positive,uncertain,yes,1646066679.224,1646066872.442
+young,man,yes,negative,Тюмень,negative,uncertain,yes,1646066682.67,1646066725.364
+kid,man,uncertain,negative,Екатеринбург ,positive,uncertain,uncertain,1646066692.93,1646066777.754
+young,woman,yes,negative,екатеринбург,negative,negative,yes,1646066695.843,1646066729.682
+young,man,yes,negative,Тула,negative,uncertain,yes,1646066714.213,1646066777.259
+young,man,yes,negative,Оренбургская область,negative,uncertain,no,1646066719.36,1646066929.32
+young,woman,uncertain,negative,Владимирская область,negative,negative,no,1646066724.157,1646066821.18
+young,man,no,positive,Саратовская область,positive,positive,yes,1646066746.827,1646066773.377
+kid,man,uncertain,positive,Москва ,positive,positive,uncertain,1646066747.169,1646066786.164
+young,woman,uncertain,negative,Чувашская республика ,negative,uncertain,uncertain,1646066759.098,1646066833.449
+young,man,uncertain,negative,Старая Ладога,positive,uncertain,yes,1646066769.423,1646066843.995
+young,woman,yes,negative,Ставрополь,negative,negative,no,1646066770.666,1646066815.606
+young,woman,uncertain,positive,Москва,negative,positive,uncertain,1646066788.423,1646066892.806
+kid,man,no,negative,Москва ,negative,uncertain,uncertain,1646066793.664,1646066841.955
+young,man,yes,negative,Тольятти,negative,negative,uncertain,1646066800.379,1646066835.404
+young,man,yes,positive,Казань,positive,negative,no,1646066835.998,1646066951.661
+young,man,yes,positive,Брянская область ,positive,negative,no,1646066835.162,1646066899.195
+young,woman,no,negative,Санкт-Петербург,negative,negative,no,1646066839.365,1646066903.098
+young,woman,uncertain,positive,Макеевка,positive,positive,yes,1646066863.976,1646066921.611
+young,woman,uncertain,negative,Петропавловск-камчатский,negative,negative,yes,1646066882.799,1646066952.891
+kid,man,no,positive,Иваново,negative,negative,no,1646066889.144,1646066924.16
+kid,man,no,positive,пк,positive,positive,yes,1646066913.661,1646066936.29
+young,woman,uncertain,positive,Республика Коми,negative,uncertain,yes,1646066977.151,1646067030.975
+young,man,uncertain,positive,Ковров,positive,uncertain,uncertain,1646066986.193,1646067040.254
+young,man,yes,negative,Череповец,negative,negative,yes,1646066999.09,1646067044.673
+young,woman,yes,negative,Санкт-Петербург ,positive,uncertain,yes,1646067014.322,1646067069.741
+kid,woman,uncertain,negative,Дагестан,negative,negative,no,1646067026.319,1646067080.505
+young,man,yes,positive,Бишкек,negative,positive,no,1646067035.948,1646067091.877
+kid,man,yes,positive,Тула,positive,positive,yes,1646067056.779,1646067105.508
+young,woman,yes,negative,нижний новгород,negative,uncertain,no,1646067111.116,1646067171.545
+kid,man,no,negative,Дорогорское,negative,uncertain,no,1646067115.037,1646067222.542
+kid,woman,uncertain,positive,Новгородская область,positive,uncertain,yes,1646067137.142,1646067199.12
+kid,woman,uncertain,negative,Самара,negative,uncertain,no,1646067143.233,1646067200.112
+young,woman,uncertain,positive,Москва,positive,uncertain,yes,1646067149.945,1646067248.683
+young,man,yes,negative,Свердловская область,negative,uncertain,no,1646067152.434,1646067199.523
+young,woman,no,positive,Армавир,positive,uncertain,yes,1646067187.143,1646067235.658
+young,woman,yes,negative,Пермь,positive,uncertain,uncertain,1646067204.961,1646067286.639
+kid,woman,yes,negative,Сухой Лог,positive,uncertain,uncertain,1646067205.551,1646067247.563
+kid,man,no,positive,Уфа,positive,positive,yes,1646067208.314,1646067247.613
+young,man,uncertain,negative,Москвп,positive,uncertain,yes,1646067283.401,1646067336.505
+young,man,yes,negative,Киров,negative,negative,no,1646067302.86,1646067330.258
+young,woman,uncertain,negative,Москва,positive,uncertain,uncertain,1646067306.94,1646067381.939
+young,woman,no,positive,Москва,negative,negative,yes,1646067334.931,1646067371.767
+kid,woman,uncertain,positive,Пенза,positive,positive,yes,1646067343.374,1646067402.832
+kid,woman,no,positive,Москва ,negative,negative,yes,1646067360.191,1646067434.737
+kid,man,uncertain,positive,Москва ,positive,uncertain,yes,1646067402.455,1646067447.617
+young,woman,yes,negative,Нижний Новгород ,negative,negative,no,1646067419.282,1646067474.148
+kid,man,uncertain,negative,Тольятти,negative,uncertain,uncertain,1646067435.171,1646067489.172
+young,man,yes,negative,Бийск,negative,uncertain,no,1646067445.182,1646067486.624
+kid,man,uncertain,positive,Москва,positive,uncertain,no,1646067476.571,1646067629.581
+kid,woman,no,positive,Самара ,positive,uncertain,yes,1646067477.162,1646067546.25
+kid,woman,no,negative,москва,negative,uncertain,yes,1646067485.862,1646067521.976
+young,woman,no,positive,Москва,positive,positive,yes,1646067504.547,1646067579.77
+young,man,no,negative,тульская область,negative,positive,no,1646067535.432,1646067595.127
+kid,woman,no,positive,Тула,positive,uncertain,no,1646067541.525,1646067584.095
+kid,man,yes,positive,Череповец,negative,uncertain,yes,1646067569.871,1646067613.266
+kid,man,uncertain,positive,Москва ,negative,positive,uncertain,1646067585.338,1646067609.757
+kid,man,yes,positive,Черкесск ,negative,uncertain,uncertain,1646067681.088,1646067723.806
+kid,man,no,negative,«Каспийск»,negative,uncertain,uncertain,1646067683.729,1646067745.563
+young,man,yes,negative,Новосибирск,negative,negative,yes,1646067732.155,1646067781.148
+young,woman,uncertain,positive,Краснодар,negative,uncertain,yes,1646067733.901,1646067778.579
+young,woman,no,positive,Курган ,positive,negative,yes,1646067769.889,1646067830.062
+young,man,uncertain,negative,Волгоград,negative,uncertain,uncertain,1646067787.161,1646067825.729
+kid,man,uncertain,negative,Казань,negative,uncertain,no,1646067790.364,1646067819.454
+kid,woman,uncertain,positive,Тольятти,positive,uncertain,yes,1646067791.058,1646067830.987
+young,man,uncertain,positive,Гулькевичи,positive,positive,yes,1646067795.715,1646067849.868
+kid,man,yes,positive,Казань,positive,negative,no,1646067817.737,1646067877.192
+kid,man,yes,positive,Москва,positive,uncertain,yes,1646067860.456,1646067919.041
+kid,woman,no,positive,Чебоксары,positive,uncertain,yes,1646067861.013,1646067899.713
+young,woman,yes,negative,Москва,positive,negative,yes,1646067973.966,1646068009.054
+young,man,yes,positive,Москва,positive,uncertain,yes,1646068025.461,1646068077.035
+young,woman,uncertain,positive,Энгельс,negative,uncertain,yes,1646068040.595,1646068118.981
+kid,woman,uncertain,positive,Урюпинск ,negative,uncertain,yes,1646068055.441,1646068111.208
+young,woman,yes,positive,Москва ,negative,negative,yes,1646068086.597,1646068114.117
+young,man,no,positive,Москва,positive,positive,yes,1646068090.139,1646068513.663
+kid,woman,yes,negative,Ростов,negative,negative,no,1646068115.374,1646068162.731
+young,man,uncertain,positive,Чувашия ,positive,uncertain,yes,1646068206.511,1646068282.968
+kid,man,no,positive,Королев,negative,uncertain,yes,1646068219.52,1646068269.226
+young,woman,no,positive,Калуга,positive,negative,yes,1646068254.812,1646068290.31
+young,woman,uncertain,positive,Дзержинск,positive,uncertain,yes,1646068297.195,1646068345.08
+young,man,no,positive,Татарстан,positive,uncertain,uncertain,1646068305.987,1646068358.444
+young,man,uncertain,positive,Москва,positive,uncertain,uncertain,1646068328.437,1646068370.849
+young,woman,uncertain,positive,Чусовой ,negative,negative,uncertain,1646068333.287,1646068440.041
+young,man,no,positive,Волгоград,positive,negative,yes,1646068336.861,1646068414.12
+young,man,yes,negative,Махачкала,negative,negative,no,1646068363.83,1646068429.053
+young,man,yes,negative,Старый Оскол,negative,uncertain,no,1646068371.405,1646068457.738
+young,woman,yes,negative,Омск,negative,positive,yes,1646068372.704,1646068394.728
+kid,man,uncertain,negative,курган,negative,uncertain,uncertain,1646068376.746,1646068414.939
+young,woman,uncertain,positive,Новгородская область ,positive,uncertain,yes,1646068384.673,1646068439.164
+kid,man,uncertain,positive,Краснодар,negative,negative,uncertain,1646068394.547,1646068456.091
+young,man,uncertain,positive,Псков,positive,uncertain,yes,1646068417.973,1646068479.679
+young,man,yes,positive,Нижний Новгород,positive,negative,no,1646068419.573,1646068475.184
+young,woman,no,positive,Яранск,positive,positive,yes,1646068425.417,1646068466.113
+kid,man,no,positive,Москва,negative,negative,yes,1646068435.342,1646068480.478
+young,woman,yes,positive,Пенза,negative,positive,yes,1646068446.565,1646068499.49
+young,woman,yes,positive,Вологда,positive,positive,yes,1646068466.897,1646068520.88
+kid,woman,uncertain,negative,Татарстан,negative,negative,no,1646068470.831,1646068526.927
+kid,woman,uncertain,positive,Россия ,negative,uncertain,uncertain,1646068476.281,1646068532.153
+young,man,no,negative,Смоленск,negative,uncertain,no,1646068481.996,1646068546.498
+young,man,yes,positive,Санкт-Петербург,negative,uncertain,uncertain,1646068489.783,1646068533.004
+kid,man,uncertain,negative,Благовещенск ,positive,uncertain,no,1646068496.542,1646068567.499
+kid,man,no,positive,Краснодар ,positive,negative,yes,1646068512.293,1646068543.65
+kid,man,no,negative,Пенза ,negative,positive,no,1646068668.876,1646068807.489
+adult,woman,uncertain,positive,Рост обл,negative,uncertain,yes,1646068672.467,1646068828.087
+kid,man,yes,negative,Нижнекамск,negative,uncertain,no,1646068675.539,1646068726.865
+young,woman,yes,negative,Петрозаводск ,negative,negative,no,1646068716.088,1646068795.884
+kid,woman,uncertain,negative,Уфа,negative,uncertain,yes,1646068723.89,1646068762.071
+young,woman,no,negative,Ярославль,negative,uncertain,no,1646068757.742,1646068789.065
+kid,man,no,positive,Кострома,negative,uncertain,uncertain,1646068781.795,1646068811.556
+kid,man,uncertain,negative,Грозный,negative,negative,no,1646068814.002,1646068874.999
+young,woman,yes,negative,Москва,negative,positive,no,1646068843.337,1646068894.539
+kid,woman,uncertain,positive,Казань ,negative,uncertain,uncertain,1646068848.635,1646068909.636
+kid,man,no,negative,Омск,positive,positive,no,1646068928.929,1646068945.944
+young,woman,uncertain,negative,Московская область,negative,negative,uncertain,1646068966.726,1646068996.451
+kid,man,uncertain,negative,Ростов,positive,uncertain,no,1646069019.624,1646069076.628
+young,man,yes,positive,Ярославль ,positive,positive,yes,1646069043.871,1646069068.844
+kid,woman,yes,negative,Санкт-Петербург,negative,uncertain,yes,1646069187.215,1646069235.031
+kid,man,uncertain,positive,Мурманск ,positive,uncertain,yes,1646069203.743,1646069264.161
+young,woman,uncertain,positive,Киров,negative,positive,uncertain,1646069209.621,1646069279.096
+young,man,yes,positive,Иркутск,negative,uncertain,no,1646069226.204,1646069271.364
+kid,man,uncertain,positive,Москва,positive,uncertain,yes,1646069227.798,1646069399.768
+young,woman,uncertain,positive,Москва,negative,positive,no,1646069228.915,1646069274.598
+kid,woman,yes,negative,Екатеринбург,negative,positive,uncertain,1646069272.386,1646069327.865
+kid,man,yes,negative,Москва,negative,negative,uncertain,1646069307.499,1646069343.992
+kid,woman,uncertain,negative,Москва,positive,uncertain,uncertain,1646069323.436,1646069365.63
+kid,man,no,positive,Москву,positive,uncertain,yes,1646069343.554,1646069370.31
+young,man,uncertain,negative,Киров,negative,uncertain,uncertain,1646069363.244,1646069421.895
+kid,woman,yes,negative,ижевск,positive,uncertain,no,1646069423.444,1646069466.772
+kid,woman,uncertain,negative,Ростов на Дону ,negative,uncertain,uncertain,1646069450.194,1646069489.372
+kid,woman,uncertain,negative,Кострома,negative,uncertain,no,1646069450.923,1646069506.881
+young,man,uncertain,positive,Волгоград,positive,uncertain,uncertain,1646069456.581,1646069518.504
+kid,man,yes,positive,Москва,positive,positive,yes,1646069468.448,1646069586.713
+young,man,yes,negative,Москва,positive,uncertain,no,1646069531.353,1646069614.456
+kid,woman,uncertain,positive,Мостовский район ,negative,uncertain,uncertain,1646069533.046,1646069591.514
+young,woman,yes,negative,Белгород,negative,uncertain,uncertain,1646069542.694,1646069593.668
+young,woman,no,positive,волгоград,negative,uncertain,yes,1646069551.109,1646069588.338
+young,woman,uncertain,negative,Москва,negative,negative,no,1646069582.134,1646069651.827
+kid,woman,uncertain,positive,Приморский край,positive,positive,yes,1646069599.262,1646069658.027
+young,man,uncertain,positive,Москва ,positive,positive,yes,1646069640.57,1646069690.532
+young,woman,yes,negative,Челны ,positive,uncertain,yes,1646069671.559,1646069779.107
+young,woman,uncertain,negative,Пермь,negative,uncertain,uncertain,1646069676.566,1646069729.624
+kid,woman,uncertain,negative,Курган,negative,uncertain,yes,1646069683.013,1646069732.292
+young,woman,yes,positive,Кострома,negative,uncertain,no,1646069744.84,1646069815.039
+young,man,no,positive,Тамбов,positive,uncertain,yes,1646069786.017,1646069818.816
+young,woman,yes,positive,Краснодар,negative,uncertain,uncertain,1646069822.783,1646069887.433
+young,woman,yes,positive,Великий Новгород ,negative,uncertain,uncertain,1646069859.382,1646069906.028
+young,woman,yes,negative,Кемерово,negative,negative,no,1646069981.272,1646070067.883
+kid,man,uncertain,positive,Москва ,negative,uncertain,yes,1646070059.43,1646070137.118
+young,man,yes,positive,Волгоград,positive,positive,yes,1646070078.481,1646070110.931
+young,woman,no,negative,Белгород,positive,uncertain,no,1646070100.396,1646070184.436
+young,woman,no,negative,Брянск,positive,negative,no,1646070172.767,1646070219.145
+young,woman,no,positive,Санкт-Петербург,positive,negative,yes,1646070404.459,1646070485.978
+kid,woman,uncertain,negative,Белгород ,negative,uncertain,no,1646070414.382,1646070478.739
+young,woman,uncertain,positive,Москве,negative,uncertain,uncertain,1646070429.779,1646070458.476
+young,man,uncertain,positive,Строитель,positive,positive,yes,1646070458.925,1646070504.101
+young,woman,yes,negative,Москва ,negative,negative,yes,1646070473.685,1646070496.764
+young,woman,uncertain,negative,Сковородино ,negative,negative,no,1646070487.008,1646070526.381
+young,man,yes,negative,Навашино,positive,negative,yes,1646070540.902,1646070573.096
+young,woman,yes,negative,Кострома,positive,uncertain,no,1646070548.079,1646070615.774
+young,man,yes,negative,Омск,negative,negative,no,1646070582.47,1646070626.341
+young,woman,yes,negative,москва,negative,negative,no,1646070660.576,1646070722.751
+kid,man,uncertain,negative,Москва,negative,negative,yes,1646070728.72,1646070770.167
+young,woman,yes,negative,Ярославль ,negative,uncertain,yes,1646070734.006,1646070766.318
+kid,man,yes,positive,Магнитогорск ,positive,uncertain,no,1646070777.661,1646070836.311
+young,man,uncertain,negative,Владимир,positive,uncertain,uncertain,1646070805.968,1646070863.434
+kid,man,yes,positive,Ростов,positive,uncertain,no,1646070823.718,1646070859.416
+kid,woman,yes,positive,Санкт-Петербург ,positive,positive,uncertain,1646070841.442,1646070899.704
+kid,man,yes,negative,Чувашская республика ,negative,uncertain,no,1646070861.835,1646070914.63
+young,woman,uncertain,negative,Москва,negative,uncertain,no,1646070868.997,1646070907.531
+young,woman,yes,negative,Краснодар,negative,negative,no,1646070870.252,1646070898.992
+young,man,yes,negative,Глазов,negative,negative,no,1646070883.959,1646070935.855
+young,man,yes,negative,Екатеринбург,negative,negative,no,1646070942.713,1646070970.687
+young,man,yes,positive,Москва,positive,positive,yes,1646070962.185,1646071001.684
+young,man,yes,negative,Новосибирск,negative,negative,no,1646071111.47,1646071187.497
+young,woman,no,negative,Кострома,positive,negative,yes,1646071201.374,1646071255.623
+young,man,yes,positive,ПЕНЗА,positive,positive,yes,1646071204.1,1646071233.5
+young,woman,no,positive,Москва,positive,uncertain,yes,1646071284.617,1646071333.259
+young,man,yes,negative,Москва,positive,positive,no,1646071289.261,1646071387.914
+young,woman,uncertain,negative, Москва,negative,uncertain,uncertain,1646071303.1,1646071352.423
+young,man,yes,negative,москва,positive,negative,yes,1646071338.148,1646071380.973
+kid,woman,yes,positive,Глазов,positive,uncertain,yes,1646071343.688,1646071410.27
+young,man,yes,negative,Москва,negative,negative,no,1646071386.73,1646071474.86
+young,woman,uncertain,positive,нижний тагил,positive,negative,yes,1646071415.816,1646071453.587
+young,woman,yes,positive,Москва ,negative,uncertain,uncertain,1646071418.784,1646071456.307
+young,woman,yes,positive,москва ,negative,uncertain,yes,1646071460.745,1646071482.953
+kid,woman,uncertain,positive,Москва,positive,uncertain,uncertain,1646071471.116,1646071539.533
+kid,man,uncertain,positive,Саратов,positive,negative,yes,1646071520.362,1646071577.419
+young,man,yes,positive,Рязань,positive,uncertain,uncertain,1646071548.96,1646071599.349
+young,man,uncertain,positive,Белгород,negative,uncertain,uncertain,1646071585.566,1646071631.323
+kid,man,yes,positive,Дагестан,positive,uncertain,no,1646071593.202,1646071639.647
+young,man,yes,negative,Ростовская область ,positive,uncertain,uncertain,1646071657.878,1646071729.247
+young,woman,no,negative,Москва,negative,uncertain,uncertain,1646071669.228,1646071709.032
+young,man,yes,negative,Курган,negative,negative,no,1646071670.948,1646071838.03
+young,man,yes,negative,Сахалинская область ,negative,uncertain,no,1646071727.714,1646071843.405
+young,man,yes,positive,Ротть,positive,positive,no,1646071832.805,1646071849.302
+young,woman,yes,positive,Владимир,positive,uncertain,uncertain,1646071852.849,1646071914.426
+young,woman,uncertain,negative,Архангельск ,negative,negative,no,1646071870.207,1646071925.657
+young,woman,yes,negative,Москва,negative,positive,no,1646071871.012,1646071914.724
+young,man,uncertain,negative,Ярославль,negative,uncertain,no,1646071879.561,1646071928.811
+young,man,no,positive,Тверь,positive,positive,yes,1646071896.924,1646071934.765
+kid,woman,uncertain,positive,Санкт-Петербург,positive,uncertain,no,1646071917.868,1646071972.101
+kid,woman,yes,positive,СПб,negative,uncertain,yes,1646071930.578,1646071965.418
+young,woman,yes,positive,Россия,positive,uncertain,no,1646072035.768,1646072068.362
+young,man,uncertain,negative,Москва,positive,uncertain,yes,1646072036.776,1646072083.988
+young,man,yes,negative,Санкт-Петербург,positive,negative,no,1646072048.384,1646072108.379
+young,woman,yes,negative,Тула,negative,negative,no,1646072081.375,1646072117.919
+kid,man,uncertain,positive,Москва,negative,uncertain,uncertain,1646072221.849,1646072274.32
+young,woman,yes,negative,Чебоксары ,negative,negative,no,1646072363.519,1646072404.446
+kid,woman,yes,positive,Вельск,positive,negative,no,1646072452.531,1646072521.198
+kid,man,yes,positive,Москва ,negative,positive,yes,1646072463.63,1646072502.139
+young,woman,no,positive,Москва,positive,uncertain,yes,1646072490.659,1646072551.571
+young,woman,yes,negative,Москва,negative,negative,no,1646072497.634,1646072561.691
+young,woman,uncertain,positive,Нижний Новгород ,positive,uncertain,yes,1646072512.859,1646072583.949
+young,man,yes,negative,Екатеринбург ,negative,negative,no,1646072628.016,1646072663.053
+young,man,uncertain,positive,Ивановская область,positive,positive,yes,1646072658.444,1646072723.448
+kid,woman,yes,positive,Нижневартовск ,negative,uncertain,no,1646072704.265,1646072803.75
+young,woman,no,positive,Петрозаводск,positive,negative,yes,1646072813.6,1646072878.063
+young,man,yes,negative,Череповец ,negative,uncertain,uncertain,1646072813.137,1646072879.045
+aged,woman,yes,negative,москва,negative,negative,yes,1646072822.732,1646072850.496
+young,woman,uncertain,negative,РТ,negative,uncertain,no,1646072833.616,1646072887.74
+young,woman,yes,positive,Саратовская область,negative,uncertain,yes,1646072876.209,1646072941.803
+kid,woman,uncertain,negative,58,negative,uncertain,yes,1646072924.643,1646072986.629
+kid,woman,yes,negative,Волгоград ,negative,uncertain,no,1646073043.749,1646073106.938
+young,woman,yes,negative,Нижегородская область,negative,negative,no,1646073062.488,1646073122.163
+young,woman,uncertain,positive,Краснодар,negative,uncertain,no,1646073117.122,1646073214.386
+young,man,uncertain,negative,Иваново,negative,uncertain,no,1646073125.887,1646073159.634
+young,man,yes,negative,Волгоград,negative,negative,no,1646073141.763,1646073182.695
+kid,woman,no,negative,Тайшет,positive,positive,no,1646073196.601,1646073270.839
+young,man,yes,negative,Омск,negative,uncertain,no,1646073253.996,1646073309.413
+young,woman,uncertain,positive,Рязань,positive,uncertain,uncertain,1646073372.882,1646073419.596
+kid,man,yes,negative,ЕКАТЕРИНБУРГ,negative,negative,no,1646073451.656,1646073486.859
+aged,woman,yes,negative,Москва,negative,uncertain,no,1646073473.285,1646073509.763
+young,woman,yes,negative,Москва ,negative,uncertain,no,1646073483.607,1646073548.104
+adult,woman,no,positive,Хабаровск,positive,positive,yes,1646073492.048,1646073538.313
+young,woman,yes,negative,Москва,negative,uncertain,uncertain,1646073537.164,1646073589.852
+young,man,no,positive,Стерлитамак ,negative,uncertain,yes,1646073625.567,1646073729.939
+young,man,yes,positive,Санкт-Петербург ,positive,uncertain,uncertain,1646073650.777,1646073700.93
+young,man,uncertain,negative,Хабаровск,positive,positive,uncertain,1646073682.71,1646073727.834
+kid,man,no,positive,Бугульма,positive,negative,yes,1646073691.569,1646073734.784
+young,woman,yes,positive,Приморье,negative,negative,no,1646073751.069,1646073801.302
+young,man,yes,negative,Москва,positive,uncertain,yes,1646073779.369,1646073907.336
+young,man,yes,positive,Тамбовская область,negative,negative,yes,1646073797.784,1646073841.503
+young,man,uncertain,negative,москва,positive,uncertain,uncertain,1646073797.174,1646073873.921
+young,woman,yes,negative,Новосибирск,negative,positive,no,1646073857.444,1646073918.174
+young,woman,yes,positive,Москва,positive,positive,yes,1646073866.417,1646073918.428
+young,man,uncertain,negative,Нижний Новгород,positive,positive,uncertain,1646073899.609,1646073953.461
+young,man,no,negative,Волгоград,positive,positive,yes,1646073948.629,1646073993.913
+kid,woman,yes,positive,Волгоград ,negative,uncertain,uncertain,1646073993.96,1646074044.243
+young,woman,uncertain,negative,Белгород,negative,uncertain,uncertain,1646073999.88,1646074035.695
+young,woman,uncertain,negative,Москва ,negative,uncertain,no,1646074037.635,1646074085.299
+young,man,yes,negative,Вологда,negative,uncertain,uncertain,1646074259.899,1646074308.411
+young,man,uncertain,positive,Ставрополь,negative,uncertain,yes,1646074285.952,1646074356.298
+young,man,yes,negative,.,negative,negative,no,1646074417.619,1646074487.426
+young,woman,yes,negative,Москва,negative,uncertain,no,1646074491.483,1646074557.18
+young,man,yes,positive,Москва ,positive,uncertain,uncertain,1646074530.201,1646074611.294
+young,woman,uncertain,negative,Череповец ,negative,negative,uncertain,1646074582.884,1646074643.52
+young,man,yes,negative,Цивильск,negative,negative,no,1646074617.94,1646074658.743
+adult,woman,yes,negative,Арх. обл.,negative,negative,no,1646074633.386,1646074706.124
+kid,woman,uncertain,positive,Москва,positive,uncertain,yes,1646074793.319,1646074836.291
+young,woman,yes,positive,Волгоград ,positive,uncertain,uncertain,1646074804.58,1646074850.21
+young,man,uncertain,positive,Москва,positive,negative,uncertain,1646074883.911,1646074950.805
+young,man,yes,positive,Тамбов ,positive,positive,yes,1646074947.182,1646074993.438
+young,man,yes,positive,Москва,negative,uncertain,uncertain,1646074983.344,1646075047.288
+young,man,yes,negative,СПБ,negative,uncertain,uncertain,1646075125.24,1646075211.175
+young,woman,uncertain,negative,Ярославль,negative,uncertain,yes,1646075126.658,1646075191.731
+young,man,uncertain,positive,Нижнекамск,positive,uncertain,uncertain,1646075160.396,1646075214.745
+young,woman,uncertain,positive,москва,positive,uncertain,yes,1646075238.335,1646075299.941
+young,man,uncertain,negative,Ростовская область ,negative,uncertain,yes,1646075263.021,1646075310.629
+young,man,yes,positive,Московская область,positive,positive,yes,1646075353.845,1646075401.003
+young,woman,no,negative,Сахалинская область,negative,negative,no,1646075412.944,1646075535.07
+kid,woman,yes,positive,Тюмень,negative,uncertain,no,1646075592.886,1646075628.19
+young,man,uncertain,negative,Москва,positive,uncertain,yes,1646075709.755,1646075760.595
+adult,woman,yes,positive,Москва ,negative,positive,no,1646075729.873,1646075749.273
+young,woman,yes,negative,москва,negative,negative,no,1646075945.933,1646076031.73
+young,man,yes,positive,Москва,positive,uncertain,yes,1646076019.095,1646076062.45
+young,man,no,positive,Омутнинск,positive,positive,yes,1646076045.369,1646076086.892
+young,woman,uncertain,positive,Москва ,negative,uncertain,uncertain,1646076224.646,1646076250.0
+kid,woman,uncertain,negative,Чита,negative,negative,no,1646076248.998,1646076302.206
+young,man,yes,negative,Ижевск ,negative,uncertain,yes,1646076251.961,1646076295.227
+young,woman,no,positive,Саратов,positive,positive,yes,1646076295.579,1646076339.623
+young,woman,yes,positive,Липецк ,positive,uncertain,yes,1646076309.04,1646076357.752
+young,man,no,positive,Великий Новгород,positive,positive,yes,1646076575.205,1646076632.032
+young,woman,no,positive,Нижний Новгород,negative,uncertain,yes,1646076888.883,1646077097.527
+young,man,yes,negative,Москва,negative,negative,no,1646076939.33,1646077141.754
+young,woman,yes,positive,Москва,positive,uncertain,yes,1646076943.191,1646076989.638
+kid,man,no,positive,Чита ,positive,positive,yes,1646076970.088,1646077027.968
+kid,man,uncertain,negative,Щелково,negative,uncertain,yes,1646076983.01,1646077105.087
+young,woman,uncertain,negative,Ростов на дону ,negative,uncertain,uncertain,1646077011.128,1646077049.081
+young,woman,yes,negative,Санкт-Петербург,positive,uncertain,uncertain,1646077034.568,1646077126.378
+young,man,uncertain,negative,Калуга,positive,uncertain,yes,1646077287.157,1646077324.631
+young,woman,yes,negative,Киров,negative,uncertain,uncertain,1646077311.666,1646077372.152
+young,man,uncertain,positive,Екатеринбург,positive,uncertain,yes,1646077566.315,1646077623.868
+young,woman,uncertain,negative,Хабаровск,negative,positive,uncertain,1646077580.659,1646077614.478
+young,woman,no,positive,Республика Коми,positive,uncertain,yes,1646077597.474,1646077657.086
+young,woman,uncertain,negative,Ставрополь ,positive,uncertain,uncertain,1646077658.929,1646077728.472
+young,woman,uncertain,negative,Крымский полуостров,positive,uncertain,uncertain,1646077796.918,1646077877.05
+kid,woman,no,negative,Воронеж ,positive,negative,yes,1646077797.557,1646077919.678
+kid,woman,uncertain,positive,Москва,positive,positive,yes,1646077810.765,1646077863.819
+kid,man,uncertain,positive,Москва,positive,uncertain,yes,1646078125.74,1646078207.197
+young,man,yes,positive,Краснодар ,positive,negative,yes,1646078215.733,1646078275.106
+kid,woman,yes,negative,Сочи,negative,uncertain,uncertain,1646078324.695,1646078373.088
+young,woman,yes,positive,Гатчина ,positive,uncertain,yes,1646078504.194,1646078566.186
+young,man,no,positive,Владивосток ,negative,negative,yes,1646078918.473,1646078962.026
+young,woman,uncertain,positive,Челябинск,positive,uncertain,uncertain,1646079023.355,1646079091.511
+young,man,uncertain,negative,Приморский край,negative,uncertain,uncertain,1646079052.675,1646079102.674
+kid,man,no,negative,Находка,positive,uncertain,uncertain,1646079143.291,1646079211.513
+kid,man,no,positive,Новосибирск,negative,positive,no,1646079366.287,1646079405.747
+young,man,uncertain,negative,Брянск,negative,uncertain,uncertain,1646079477.04,1646079514.008
+young,man,uncertain,positive,Нижний Новгород,positive,uncertain,yes,1646079689.459,1646079732.98
+kid,woman,yes,negative,Москва,negative,uncertain,no,1646079734.091,1646079797.194
+young,woman,yes,negative,Нижний Новгород,negative,uncertain,no,1646079942.203,1646079987.601
+young,man,yes,negative,Москва,negative,negative,no,1646080160.246,1646080199.692
+young,woman,uncertain,negative,Санкт Петербург,negative,uncertain,uncertain,1646080254.22,1646080293.304
+young,woman,no,positive,Санкт-Петербург,positive,negative,yes,1646080330.944,1646080370.322
+kid,man,uncertain,negative,Красноярск ,negative,uncertain,no,1646080342.913,1646080392.487
+young,man,uncertain,positive,Каменск-Шахтинский,positive,uncertain,yes,1646080607.35,1646080678.258
+young,woman,uncertain,negative,Санкт-Петербург,negative,negative,no,1646080806.96,1646080888.454
+young,man,no,negative,Иваново,negative,negative,yes,1646080836.012,1646080900.767
+kid,man,no,positive,Белгород ,positive,positive,yes,1646081235.641,1646081308.03
+young,woman,uncertain,negative,Ростов,negative,negative,uncertain,1646081837.94,1646081879.53
+young,man,yes,negative,Саранск,positive,negative,yes,1646082173.405,1646082233.374
+young,man,uncertain,negative,Сковородино ,negative,uncertain,uncertain,1646082270.614,1646082311.356
+kid,man,uncertain,positive,Саратовская,positive,uncertain,uncertain,1646082469.727,1646082563.553
+kid,man,yes,negative,кемерово,negative,uncertain,no,1646082691.059,1646082756.746
+young,woman,uncertain,positive,Новгородская область ,positive,uncertain,yes,1646082727.842,1646082821.285
+young,man,no,positive,Брянск,negative,positive,yes,1646082823.805,1646082895.201
+kid,man,no,positive,Москва,negative,uncertain,uncertain,1646082912.219,1646083000.779
+young,man,no,positive,Москва,positive,positive,yes,1646083077.793,1646083125.042
+young,man,yes,negative,Белгород ,negative,negative,uncertain,1646083119.822,1646083158.767
+young,woman,uncertain,positive,Чита,positive,uncertain,yes,1646083191.268,1646083240.131
+young,woman,uncertain,positive,Иркутск,negative,uncertain,uncertain,1646083244.452,1646083279.738
+young,man,yes,positive,Москва,negative,positive,yes,1646083444.278,1646083479.276
+young,woman,yes,negative,Самара,positive,positive,yes,1646083480.514,1646083551.296
+kid,man,uncertain,negative,Барнаул ,positive,uncertain,uncertain,1646083516.901,1646083572.564
+kid,woman,no,negative,Омск,positive,negative,yes,1646083539.725,1646083596.824
+young,man,yes,negative,Москва,negative,uncertain,uncertain,1646083937.265,1646083977.893
+kid,man,yes,positive,Москва,positive,negative,yes,1646084232.15,1646084302.027
+young,woman,yes,positive,дальневосеочный,positive,positive,yes,1646084242.161,1646084320.834
+young,woman,uncertain,positive,Хакасия,negative,uncertain,yes,1646084524.135,1646084579.796
+young,woman,uncertain,negative,Набережные Челны,negative,uncertain,yes,1646084639.046,1646084714.432
+kid,man,yes,positive,Санкт-Питербург,negative,uncertain,uncertain,1646084680.724,1646084738.792
+kid,man,no,positive,Донбасс,negative,positive,uncertain,1646084839.756,1646084896.028
+young,man,yes,positive,Тульская область,positive,positive,yes,1646084895.892,1646084933.206
+kid,man,yes,negative,Уяр,positive,negative,yes,1646085131.507,1646085160.493
+kid,man,no,positive,Ачинск,positive,uncertain,yes,1646085227.098,1646085265.844
+young,man,no,positive,"Сахалинская область, Южно-Сахалинск",negative,uncertain,no,1646085351.424,1646085433.93
+kid,man,no,positive,Алтайский Край,negative,negative,yes,1646085565.265,1646085638.151
+young,man,uncertain,positive,сатка,negative,uncertain,yes,1646085577.61,1646085641.999
+young,woman,no,negative,Москва,positive,negative,no,1646085606.234,1646085639.714
+young,man,uncertain,positive,Москва,positive,positive,uncertain,1646085651.109,1646085680.381
+young,man,uncertain,positive,Владивосток,positive,negative,yes,1646086188.302,1646086251.532
+young,woman,uncertain,positive,Россия,positive,uncertain,uncertain,1646086298.187,1646086358.127
+kid,woman,uncertain,positive,Москва ,positive,uncertain,yes,1646086303.731,1646086360.198
+young,woman,yes,negative,Новосибирск,negative,uncertain,yes,1646086357.613,1646086408.557
+young,man,no,positive,Уфа,positive,positive,yes,1646086418.7,1646086499.317
+young,man,uncertain,negative,иваново,negative,uncertain,uncertain,1646086567.145,1646086624.25
+young,man,yes,positive,Аша,positive,uncertain,yes,1646086699.646,1646086764.17
+young,man,uncertain,negative,Алтайский край ,negative,uncertain,yes,1646086774.465,1646086930.447
+young,woman,uncertain,positive,Санкт-Петербург ,positive,uncertain,uncertain,1646086777.944,1646086861.778
+young,woman,uncertain,negative,Алтайский край ,positive,uncertain,uncertain,1646086809.414,1646086880.465
+young,woman,no,positive,Пермь,positive,negative,yes,1646086875.121,1646086895.582
+kid,man,uncertain,positive,Новосибирск ,negative,positive,uncertain,1646086959.129,1646086998.759
+young,woman,uncertain,negative,Иркутск ,negative,uncertain,yes,1646087009.923,1646087080.623
+young,man,yes,positive,Якутия,negative,positive,yes,1646087047.709,1646087087.855
+kid,man,uncertain,positive,Барнаул,positive,negative,yes,1646087221.376,1646087282.219
+young,man,no,negative,Москва ,negative,uncertain,no,1646087247.854,1646087316.243
+young,woman,uncertain,positive,Новосибирск ,negative,uncertain,uncertain,1646087503.777,1646087559.931
+young,man,yes,negative,Москва,negative,uncertain,yes,1646087531.853,1646087551.981
+young,woman,uncertain,negative,Татарстан ,positive,positive,uncertain,1646087537.847,1646087601.318
+young,man,yes,positive,Иилл,positive,positive,yes,1646087647.026,1646087681.864
+young,man,yes,positive,Омск,negative,uncertain,no,1646088170.808,1646088258.547
+kid,woman,no,positive,Москва,positive,uncertain,yes,1646088830.282,1646088871.139
+young,woman,yes,negative,Пермь ,negative,uncertain,uncertain,1646089052.029,1646089095.525
+young,woman,yes,negative,Уфа,negative,uncertain,no,1646089157.448,1646089220.906
+kid,man,no,positive,Екатеринбург ,positive,positive,yes,1646089285.316,1646089334.155
+young,man,uncertain,negative,Иркутск ,negative,uncertain,no,1646089288.486,1646089344.065
+young,woman,uncertain,negative,Москва,negative,uncertain,uncertain,1646089293.585,1646089362.668
+kid,woman,uncertain,positive,Москва ,positive,uncertain,yes,1646089433.728,1646089498.287
+young,woman,uncertain,negative,Иркутск,negative,uncertain,uncertain,1646089463.895,1646089547.118
+young,woman,yes,negative,B;tdcr,negative,uncertain,uncertain,1646089487.047,1646089517.26
+young,man,yes,positive,Башкортостан,positive,uncertain,yes,1646089520.254,1646089552.607
+young,man,yes,negative,Оренбургская область,negative,uncertain,no,1646089622.877,1646089717.794
+young,woman,uncertain,negative,Саратов ,negative,uncertain,no,1646089653.955,1646089722.3
+young,man,uncertain,negative,Калининград,positive,uncertain,yes,1646090052.686,1646090105.921
+young,woman,no,positive,Тюмень,positive,uncertain,yes,1646090127.491,1646090194.877
+young,man,yes,negative,Самара,negative,positive,no,1646090183.307,1646090216.173
+kid,man,yes,positive,55,positive,uncertain,yes,1646090385.588,1646090461.196
+kid,woman,yes,negative,Красноярск,negative,positive,no,1646090413.781,1646090482.324
+kid,man,uncertain,positive,Иркутск,positive,positive,yes,1646090447.623,1646090486.036
+kid,woman,yes,negative,Бугульма,positive,positive,yes,1646090452.769,1646090499.207
+young,woman,no,negative,Санкт Петербург,negative,uncertain,uncertain,1646090514.873,1646090591.252
+young,woman,uncertain,negative,Екатеринбург ,positive,negative,uncertain,1646090573.344,1646090704.427
+young,man,no,positive,Кемеровская область,positive,uncertain,yes,1646090579.181,1646090634.858
+young,woman,uncertain,positive,Москва ,negative,positive,yes,1646090584.274,1646090617.265
+young,man,uncertain,negative,забайкальский край,positive,uncertain,uncertain,1646090626.634,1646090668.414
+kid,man,uncertain,negative,Пермь ,negative,uncertain,no,1646090656.572,1646090726.85
+young,woman,yes,negative,челябинск,negative,negative,no,1646090689.672,1646090729.203
+kid,woman,no,positive,Новосибирск,positive,positive,yes,1646090782.622,1646090823.255
+young,man,uncertain,positive,Уфа,positive,negative,yes,1646090897.822,1646090943.98
+kid,man,yes,negative,Удмуртия,negative,uncertain,no,1646091120.423,1646091194.579
+kid,man,yes,negative,Бакалы ,positive,uncertain,no,1646091742.58,1646091858.092
+young,man,uncertain,positive,Москва ,negative,positive,uncertain,1646091757.158,1646091791.986
+kid,man,uncertain,negative,Агидель ,negative,negative,uncertain,1646091822.429,1646091903.105
+kid,woman,yes,negative,Кандры,negative,positive,no,1646091842.331,1646091907.804
+kid,man,uncertain,positive,благовещенск,positive,positive,yes,1646091957.709,1646092007.791
+adult,woman,yes,positive,томск,positive,positive,yes,1646092009.22,1646092049.788
+kid,woman,uncertain,positive,Димитровград,positive,uncertain,yes,1646092270.631,1646092327.794
+kid,man,uncertain,positive,Оренбургская область,negative,uncertain,uncertain,1646092307.778,1646092369.807
+kid,man,yes,positive,Йошкар-Ола,positive,uncertain,yes,1646092427.773,1646092507.818
+young,man,uncertain,negative,Москва,negative,uncertain,uncertain,1646092518.014,1646092547.026
+young,man,uncertain,positive,Мариинск,positive,uncertain,uncertain,1646092550.02,1646092598.652
+kid,man,yes,positive,Тюмень,positive,positive,yes,1646092565.6,1646092587.004
+kid,woman,yes,negative,Екатеринбург ,negative,negative,yes,1646092583.3,1646092627.352
+young,woman,uncertain,positive,Челябинск,positive,uncertain,uncertain,1646092735.735,1646092778.392
+young,woman,yes,positive,Иркутская область,positive,uncertain,no,1646092783.885,1646092833.11
+kid,man,uncertain,negative,Чернушка,negative,negative,uncertain,1646092841.6,1646092892.213
+young,woman,yes,negative,Тюмень,negative,uncertain,yes,1646092843.845,1646092888.228
+kid,woman,uncertain,negative,Приморский край ,negative,negative,uncertain,1646093096.11,1646093158.824
+young,woman,yes,negative,Новосибирск ,positive,uncertain,uncertain,1646093099.239,1646093176.564
+young,man,yes,positive,Краснодар,negative,negative,no,1646093106.903,1646093156.398
+young,woman,yes,negative,Борзя,positive,negative,no,1646093108.381,1646093153.311
+adult,man,yes,negative,Петрозаводск ,negative,negative,no,1646093184.927,1646093236.524
+kid,man,no,positive,Москва,negative,negative,no,1646093243.02,1646093279.213
+young,man,no,positive,Красноярск,positive,positive,yes,1646093550.328,1646093636.132
+young,man,yes,negative,Москва,positive,uncertain,no,1646093669.866,1646093718.867
+young,woman,yes,negative,Варненский ,positive,uncertain,uncertain,1646093765.324,1646093812.546
+young,woman,yes,negative,Ижевск ,negative,positive,no,1646093788.976,1646093843.966
+young,woman,yes,positive,Пересвет,positive,uncertain,yes,1646093791.397,1646093824.068
+kid,man,yes,positive,Саратов,positive,positive,no,1646093812.199,1646093864.884
+kid,woman,yes,negative,Новосибирск,positive,negative,yes,1646093822.729,1646093852.518
+young,man,yes,negative,Пермь,negative,negative,no,1646093850.491,1646093907.586
+young,man,no,positive,Калининград ,positive,uncertain,yes,1646093905.781,1646094011.945
+young,woman,yes,negative,томск,negative,uncertain,uncertain,1646093969.635,1646094016.165
+young,woman,uncertain,negative,Владивосток,positive,uncertain,yes,1646094156.379,1646094204.757
+kid,woman,yes,positive,Юрга,negative,positive,yes,1646094218.063,1646094335.659
+aged,man,uncertain,negative,Питер,negative,uncertain,uncertain,1646094260.413,1646094308.463
+young,woman,yes,positive,А,positive,positive,uncertain,1646094286.252,1646094364.462
+young,woman,yes,positive,ХМАО ,negative,uncertain,no,1646094338.964,1646094385.471
+young,woman,yes,negative,новосибирск,negative,negative,no,1646094364.7,1646094793.42
+young,woman,no,positive,Башкортостан ,positive,positive,yes,1646094368.286,1646094408.563
+kid,woman,yes,positive,Новосибирск ,positive,uncertain,yes,1646094422.12,1646094459.402
+kid,man,uncertain,negative,Ижевск,positive,uncertain,yes,1646094535.889,1646094597.536
+young,man,uncertain,positive,Барнаул,positive,positive,yes,1646094548.773,1646094613.865
+young,woman,uncertain,negative,Уфа,negative,uncertain,uncertain,1646094549.054,1646094604.4
+young,man,yes,positive,Курган,negative,negative,yes,1646094576.135,1646094610.925
+young,man,uncertain,positive,Новосибирск,negative,uncertain,uncertain,1646094640.235,1646094720.055
+young,man,no,negative,Комсомольск на Амуре ,negative,negative,yes,1646094653.528,1646094711.791
+kid,man,uncertain,negative,Кемеровская,negative,uncertain,uncertain,1646094781.343,1646094872.161
+young,woman,yes,negative,Лысьва ,positive,negative,yes,1646094792.345,1646094874.821
+kid,woman,uncertain,positive,Москва ,negative,uncertain,yes,1646094816.386,1646094847.024
+kid,man,uncertain,positive,Иркутск,positive,uncertain,uncertain,1646094865.488,1646094918.176
+young,woman,uncertain,negative,Златоуст,negative,uncertain,yes,1646094938.93,1646094987.034
+kid,man,no,positive,Башкортостан,positive,negative,yes,1646094959.397,1646095008.225
+young,man,uncertain,negative,Москва,negative,uncertain,uncertain,1646095153.89,1646095193.413
+young,woman,uncertain,positive,Кострома ,positive,uncertain,uncertain,1646095157.553,1646095216.758
+kid,man,yes,positive,Чита,negative,uncertain,uncertain,1646095170.529,1646095242.91
+young,man,no,negative,Москва,negative,negative,no,1646095206.44,1646095259.015
+young,woman,yes,positive,Республика Крым,positive,uncertain,uncertain,1646095302.014,1646095397.844
+young,woman,yes,positive,Воронеж,negative,negative,no,1646095384.114,1646095433.214
+kid,man,no,positive,Новосибирск,positive,positive,yes,1646095423.67,1646095481.018
+kid,man,uncertain,negative,Москва ,positive,uncertain,uncertain,1646095466.469,1646095536.798
+kid,man,yes,positive,Сургут,positive,uncertain,yes,1646095550.246,1646095600.501
+kid,woman,yes,negative,Новокузнецк,negative,uncertain,uncertain,1646095561.558,1646095612.273
+young,woman,no,negative,нижний новгород,negative,negative,yes,1646095700.021,1646095723.892
+kid,woman,yes,positive,Фурманов,positive,uncertain,yes,1646095712.806,1646095773.842
+young,man,yes,negative,Моска,positive,negative,yes,1646095736.313,1646095798.13
+young,man,yes,positive,МОСКВА,positive,positive,no,1646095778.58,1646095812.759
+kid,man,uncertain,negative,Агидель,negative,uncertain,no,1646095789.907,1646095862.465
+kid,man,no,negative,Партизанск ,negative,uncertain,uncertain,1646095880.282,1646095918.404
+young,woman,no,positive,Новокузнецк ,positive,uncertain,yes,1646095890.327,1646095987.454
+young,woman,uncertain,negative,Салават ,negative,uncertain,uncertain,1646095956.137,1646095995.11
+kid,man,no,negative,Самара,positive,uncertain,no,1646095981.24,1646096012.569
+kid,man,uncertain,negative,Москва ,negative,uncertain,yes,1646095994.023,1646096057.882
+young,man,yes,positive,Бийск,positive,negative,yes,1646096026.761,1646096089.807
+kid,man,yes,positive,Москва,positive,positive,no,1646096367.054,1646096452.443
+young,woman,uncertain,positive,Москва,negative,negative,uncertain,1646096399.349,1646096441.832
+young,man,uncertain,negative,Уфа,positive,uncertain,yes,1646096426.659,1646096514.85
+kid,man,no,positive,Ульяновск,positive,positive,yes,1646096493.132,1646096543.629
+young,man,yes,negative,Красноярск,positive,positive,yes,1646096514.248,1646096590.824
+kid,man,uncertain,positive,Белгород,positive,positive,yes,1646096626.484,1646096683.833
+young,woman,yes,negative,Томск ,negative,negative,no,1646096722.32,1646096761.285
+young,woman,no,positive,Самара,positive,uncertain,yes,1646096898.325,1646096993.508
+young,man,no,positive,Свердловская область ,positive,uncertain,yes,1646096908.932,1646096969.244
+kid,man,yes,positive,Киров,positive,negative,yes,1646096936.457,1646096965.377
+kid,woman,uncertain,negative,Москва,negative,negative,yes,1646097023.326,1646097084.21
+young,man,uncertain,negative,Новосибирск ,negative,uncertain,no,1646097048.604,1646097076.288
+kid,woman,uncertain,positive,Крым,negative,uncertain,no,1646097100.485,1646097135.171
+kid,woman,uncertain,negative,Оренбургская область новосергиевский район посёлок Среднеуранский,positive,uncertain,uncertain,1646097166.823,1646097248.569
+kid,man,no,positive,Новоорск ,negative,negative,yes,1646097246.164,1646097267.341
+kid,woman,yes,positive,Красноярский край,negative,positive,yes,1646097479.536,1646097548.164
+young,man,no,positive,Иои,negative,uncertain,uncertain,1646097563.226,1646097591.462
+kid,man,no,positive,Москва,positive,uncertain,yes,1646097566.56,1646097623.622
+young,woman,uncertain,negative,Красноярск,positive,uncertain,uncertain,1646097591.643,1646097631.581
+kid,man,yes,negative,Екатеринбург,negative,uncertain,no,1646097600.619,1646097662.966
+kid,woman,uncertain,negative,Шигоны,positive,uncertain,uncertain,1646097618.205,1646097763.432
+young,woman,yes,negative,Вологда,negative,uncertain,uncertain,1646097748.873,1646097827.974
+kid,woman,yes,positive,Хабаровск ,negative,uncertain,uncertain,1646097791.965,1646097951.291
+young,woman,yes,negative,Алтайский край ,negative,uncertain,uncertain,1646097820.08,1646097888.6
+young,man,yes,positive,Москва,positive,positive,no,1646097855.229,1646097900.519
+young,woman,uncertain,positive,Владимир,negative,positive,no,1646097862.489,1646097907.056
+kid,man,yes,negative,Новосибирск,negative,negative,no,1646098000.184,1646098046.774
+young,woman,yes,positive,Челябинск ,negative,uncertain,uncertain,1646098053.133,1646098177.314
+kid,man,yes,positive,Дагестан,negative,uncertain,no,1646098148.174,1646098234.305
+young,man,yes,positive,Москва,negative,positive,yes,1646098184.324,1646098240.152
+kid,man,yes,positive,Москва ,negative,negative,yes,1646098466.143,1646098506.819
+kid,woman,yes,positive,Москва ,positive,negative,yes,1646098470.229,1646098496.696
+young,man,uncertain,negative,Воронеж,positive,uncertain,yes,1646098529.594,1646098589.27
+young,woman,no,positive,Свердловская область ,positive,negative,yes,1646098529.944,1646098568.286
+young,woman,yes,negative,Пермь,positive,uncertain,uncertain,1646098555.355,1646098607.32
+kid,woman,uncertain,negative,Москва,positive,uncertain,uncertain,1646098576.611,1646098640.417
+adult,woman,no,positive,Москва,negative,negative,yes,1646098611.553,1646098660.974
+young,woman,uncertain,positive,Томск,positive,uncertain,yes,1646098629.564,1646098672.444
+young,man,yes,positive,Удмуртская республика ,negative,uncertain,no,1646098866.743,1646098924.878
+young,man,yes,negative,Хабаровск ,negative,negative,no,1646098868.516,1646098907.024
+young,man,uncertain,negative,Уфа ,negative,uncertain,uncertain,1646098884.907,1646098925.628
+kid,woman,yes,positive,36,negative,negative,no,1646098920.973,1646098988.675
+young,woman,yes,positive,Шушенское,negative,uncertain,no,1646098946.815,1646099022.13
+young,man,no,positive,Г. Красноярск,positive,uncertain,yes,1646099015.688,1646099073.321
+kid,man,yes,negative,Краснодарский край,negative,uncertain,no,1646099017.296,1646099066.354
+young,woman,uncertain,negative,Москва,positive,uncertain,uncertain,1646099066.724,1646099118.105
+young,man,yes,negative,Кемерово,negative,uncertain,no,1646099079.991,1646099134.945
+kid,woman,uncertain,negative,Москва ,negative,negative,yes,1646099136.269,1646099176.972
+young,man,no,positive,Нижний Новгород,positive,positive,yes,1646099142.604,1646099196.014
+kid,man,no,positive,Пермь,positive,positive,yes,1646099158.425,1646099202.91
+young,woman,no,positive,Владикавказ,positive,negative,yes,1646099178.896,1646099233.532
+young,woman,uncertain,positive,Москва ,negative,uncertain,uncertain,1646099208.441,1646099270.364
+young,man,yes,negative,Московская область ,negative,negative,no,1646099222.471,1646099267.921
+kid,woman,yes,negative,Марий Эл,negative,uncertain,uncertain,1646099225.382,1646099289.579
+young,woman,yes,negative,Удмуртская республика ,negative,negative,no,1646099228.426,1646099280.687
+young,man,no,positive,Нижний Новгород,positive,positive,yes,1646099295.983,1646099346.428
+kid,woman,uncertain,negative,Екатеринбург ,positive,uncertain,uncertain,1646099376.678,1646099443.036
+young,woman,no,positive,Пермь,positive,positive,yes,1646099399.286,1646099445.467
+young,woman,yes,negative,Московская область,negative,negative,no,1646099417.183,1646099461.218
+young,woman,uncertain,negative,Екатеринбург ,negative,uncertain,uncertain,1646099470.552,1646099545.654
+kid,man,no,positive,Москва,negative,uncertain,yes,1646099509.402,1646099566.967
+young,woman,no,negative,Краснодар,positive,uncertain,no,1646099540.525,1646099597.417
+young,woman,uncertain,negative,Кемеровская обл ,negative,uncertain,uncertain,1646099575.346,1646099704.231
+young,man,yes,negative,Башкортостан,positive,negative,yes,1646099598.274,1646099650.804
+young,woman,uncertain,negative,Пермь,negative,negative,no,1646099603.492,1646099684.95
+young,woman,uncertain,negative,Вологда,positive,negative,uncertain,1646099659.29,1646099812.794
+kid,woman,yes,positive,Уфа,negative,uncertain,no,1646099689.649,1646099725.326
+young,woman,uncertain,negative,Москва,positive,uncertain,no,1646099780.18,1646099827.307
+young,woman,uncertain,positive,Ставропольский край ,positive,uncertain,uncertain,1646100145.998,1646100256.649
+young,man,yes,negative,Тюменская область ,negative,negative,uncertain,1646100179.761,1646100216.2
+kid,woman,yes,negative,Башкортостан,negative,uncertain,no,1646100200.153,1646100262.142
+kid,man,no,positive,Ачинск,positive,uncertain,yes,1646100233.979,1646100293.841
+kid,man,no,positive,Липецкая область,positive,uncertain,yes,1646100284.656,1646100372.844
+young,man,no,positive,Новоуральск ,negative,uncertain,yes,1646100286.297,1646100359.934
+kid,woman,yes,negative,Ставрополь,positive,uncertain,uncertain,1646100345.811,1646100392.539
+kid,man,no,negative,Омск,negative,uncertain,uncertain,1646100348.485,1646100369.278
+young,woman,yes,negative,Екатеринбург,negative,negative,no,1646100385.219,1646100535.561
+young,man,uncertain,negative,Кавказ,positive,negative,uncertain,1646100397.014,1646100474.62
+kid,man,no,positive,Нытва,positive,negative,no,1646100419.241,1646100495.987
+young,woman,uncertain,negative,Татарстан ,positive,uncertain,uncertain,1646100448.538,1646100495.709
+kid,man,uncertain,negative,Ижевск ,positive,uncertain,uncertain,1646100499.295,1646100553.844
+kid,woman,uncertain,negative,Поселок Чаадаевка,positive,uncertain,no,1646100516.783,1646100606.584
+kid,woman,yes,negative,чажемто,negative,uncertain,uncertain,1646100531.13,1646100598.758
+kid,woman,yes,negative,омск,negative,negative,no,1646100558.739,1646100604.073
+young,man,uncertain,negative,Казань,negative,uncertain,uncertain,1646100565.856,1646100698.884
+young,man,yes,negative,Челябинск ,negative,uncertain,yes,1646100590.452,1646100631.9
+young,woman,uncertain,negative,Москва,negative,uncertain,uncertain,1646100710.587,1646100755.013
+young,man,yes,positive,Москва,positive,uncertain,yes,1646100711.823,1646100776.028
+young,woman,yes,positive,Вологда,negative,uncertain,no,1646100724.171,1646100830.679
+young,woman,uncertain,positive,Нижнекамск,positive,uncertain,yes,1646100726.444,1646100780.524
+kid,man,yes,negative,Кировская область ,negative,uncertain,uncertain,1646100754.098,1646100828.815
+young,man,uncertain,positive,Жизнь,negative,uncertain,uncertain,1646100829.441,1646100888.42
+kid,man,uncertain,negative,Тюмень ,positive,negative,uncertain,1646100839.421,1646100890.308
+kid,man,uncertain,negative,Ростов на Дону ,negative,uncertain,uncertain,1646100851.055,1646100897.777
+young,man,no,negative,Москва,positive,positive,yes,1646100887.296,1646100923.515
+young,man,yes,positive,Ярославль,positive,negative,yes,1646100890.437,1646100934.68
+kid,man,yes,positive,Приморский край,negative,negative,yes,1646100929.057,1646101021.234
+kid,man,yes,negative,Иркутск ,positive,uncertain,uncertain,1646100934.553,1646100988.637
+young,man,no,positive,Москва,negative,uncertain,yes,1646100977.271,1646101024.23
+young,man,uncertain,negative,Москва,positive,uncertain,uncertain,1646101015.675,1646101049.793
+kid,woman,uncertain,negative,Ижевск ,negative,negative,uncertain,1646101062.799,1646101103.121
+young,man,uncertain,positive,Москва ,positive,uncertain,uncertain,1646101075.977,1646101147.995
+kid,man,no,positive,Усть-Илимск,positive,positive,yes,1646101108.421,1646101189.991
+kid,man,no,negative,Глазов,negative,negative,no,1646101114.876,1646101152.152
+young,man,no,positive,Нижний Новгород,negative,negative,no,1646101166.251,1646101213.51
+young,man,yes,positive,Москвв,positive,positive,yes,1646101200.305,1646101233.093
+young,woman,no,positive,Смоленск,positive,uncertain,uncertain,1646101238.881,1646101291.986
+young,man,yes,negative,Нижнекамск,negative,negative,no,1646101272.897,1646101426.258
+young,man,no,negative,Барнаул ,negative,uncertain,no,1646101415.696,1646101475.3
+young,man,yes,negative,Саратов,negative,negative,no,1646101415.828,1646101462.227
+young,man,yes,positive,Екатеринбург,positive,uncertain,no,1646101459.816,1646101546.592
+young,man,yes,negative,Удмуртская Республика,negative,uncertain,no,1646101467.124,1646101533.209
+young,woman,uncertain,negative,Тыва,negative,uncertain,uncertain,1646101471.333,1646101524.977
+young,woman,yes,negative,НИжний Новгород,negative,negative,no,1646101487.261,1646101541.524
+adult,woman,no,positive,Сарбала ,positive,negative,uncertain,1646101509.574,1646101534.776
+young,woman,no,positive,Москва,positive,uncertain,yes,1646101524.896,1646101570.56
+young,man,uncertain,negative,Брянск,negative,uncertain,uncertain,1646101530.204,1646101596.654
+young,man,yes,positive,Москва,positive,uncertain,yes,1646101551.525,1646101605.386
+kid,man,yes,positive,Москва,positive,negative,uncertain,1646101560.829,1646101593.589
+young,man,uncertain,positive,Абакан,positive,uncertain,yes,1646101700.609,1646101766.097
+kid,man,uncertain,negative,Ишим ,negative,uncertain,uncertain,1646101731.702,1646101763.002
+adult,woman,yes,negative,ош,negative,negative,yes,1646101739.497,1646101793.852
+kid,man,yes,positive,Томская область,positive,uncertain,no,1646101840.492,1646101921.467
+kid,woman,no,positive,Москва,negative,uncertain,yes,1646101898.432,1646101973.165
+young,woman,no,positive,Оренбург,positive,uncertain,yes,1646101903.207,1646101949.895
+young,man,uncertain,positive,Краснодарский край,negative,uncertain,yes,1646101918.438,1646101993.075
+young,woman,no,negative,Омск,negative,uncertain,no,1646101934.891,1646101973.692
+young,woman,yes,negative,хабаровск ,negative,uncertain,no,1646101965.183,1646102024.989
+young,woman,no,positive,Пермь,positive,uncertain,yes,1646101999.79,1646102116.087
+young,woman,no,positive,Новосибирская область,positive,positive,yes,1646102137.063,1646102164.216
+young,woman,uncertain,negative,Йошкар-ола,negative,uncertain,uncertain,1646102162.281,1646102212.307
+young,woman,no,positive,Челябинск,positive,uncertain,yes,1646102217.787,1646102255.018
+young,man,uncertain,positive,Новоуральск ,positive,negative,yes,1646102244.091,1646102329.32
+young,woman,uncertain,negative,Йошкар-Ола,negative,positive,yes,1646102280.957,1646102320.178
+kid,woman,yes,positive,Курск,negative,uncertain,no,1646102326.59,1646102369.176
+kid,man,yes,positive,Рузаевка ,positive,negative,yes,1646102393.449,1646102421.252
+young,man,yes,negative,Москва ,negative,negative,no,1646102404.613,1646102460.384
+kid,woman,uncertain,positive,Кызыл ,negative,uncertain,uncertain,1646102445.084,1646102501.571
+kid,woman,yes,positive,Республика Крым,positive,uncertain,uncertain,1646102464.336,1646102519.461
+young,man,yes,positive,Бердск,positive,positive,uncertain,1646102469.643,1646102510.431
+kid,woman,yes,negative,Екатеринбург,negative,uncertain,no,1646102504.262,1646102545.411
+kid,man,no,positive,Навашино ,positive,positive,yes,1646102534.445,1646102596.253
+kid,woman,yes,positive,Москва,positive,positive,yes,1646102691.342,1646102708.773
+young,woman,uncertain,negative,Ирбит,positive,uncertain,yes,1646102722.282,1646102769.834
+young,woman,yes,positive,Новосибирск,positive,uncertain,yes,1646102741.978,1646102777.426
+young,woman,uncertain,negative,Нижегородская область ,negative,negative,uncertain,1646102748.685,1646102796.752
+young,man,yes,negative,Омск,negative,negative,no,1646102806.142,1646102873.05
+kid,man,no,positive,Ростов на Дону,positive,positive,yes,1646102815.733,1646102846.15
+young,woman,yes,negative,Ставрополь,negative,uncertain,no,1646102894.187,1646102956.61
+kid,woman,yes,negative,киров,negative,uncertain,no,1646102920.61,1646102971.296
+young,woman,yes,negative,Омск ,negative,uncertain,yes,1646103022.32,1646103066.338
+kid,man,uncertain,negative,Тюмень,negative,negative,no,1646103032.942,1646103063.124
+young,woman,yes,negative,Новосибирск,negative,negative,no,1646103042.941,1646103083.778
+young,man,no,positive,Кинешма,negative,uncertain,no,1646103075.4,1646103167.675
+kid,woman,yes,negative,Магнитогорск,negative,uncertain,no,1646103131.093,1646103175.361
+young,man,uncertain,negative,Москва,negative,uncertain,yes,1646103135.292,1646103160.168
+kid,man,uncertain,positive,Сычёвка,negative,negative,uncertain,1646103154.565,1646103193.448
+young,woman,yes,negative,Владимир ,negative,uncertain,uncertain,1646103204.555,1646103252.826
+young,woman,yes,negative,воронеж,positive,uncertain,no,1646103221.418,1646103264.374
+kid,woman,yes,positive,Москва,positive,positive,yes,1646103249.652,1646103297.467
+young,woman,yes,negative,Сургут ,positive,negative,no,1646103283.456,1646103339.044
+kid,man,uncertain,positive,Ставропольский край,positive,uncertain,uncertain,1646103304.115,1646103373.221
+kid,man,uncertain,positive,Йошкар-ола,negative,negative,no,1646103370.577,1646103446.107
+young,man,yes,positive,Тюмень,positive,uncertain,yes,1646103412.417,1646103466.324
+kid,man,no,negative,Новороссийск ,positive,negative,uncertain,1646103464.409,1646103509.915
+young,woman,uncertain,positive,Иркутск ,negative,negative,yes,1646103470.312,1646103501.948
+young,man,yes,positive,Новосибирск,positive,uncertain,yes,1646103495.767,1646103565.197
+kid,man,yes,negative,Москва,negative,uncertain,no,1646103511.197,1646103544.632
+young,woman,yes,negative,Спб,negative,positive,no,1646103528.225,1646103574.79
+young,man,yes,negative,Владивосток,negative,uncertain,no,1646103561.56,1646103627.287
+young,man,yes,positive,Москва ,positive,uncertain,yes,1646103580.136,1646103640.518
+young,woman,yes,negative,Псков,negative,negative,no,1646103645.842,1646103678.612
+kid,man,yes,positive,Сибай,positive,positive,yes,1646103654.962,1646103687.919
+young,man,yes,positive,Смоленск,negative,uncertain,no,1646103702.587,1646103740.257
+young,woman,uncertain,positive,Крым,positive,uncertain,uncertain,1646103707.197,1646103873.489
+young,woman,yes,negative,Москва,negative,negative,no,1646103708.06,1646103732.974
+young,woman,yes,negative,Волгоград,positive,negative,uncertain,1646103772.959,1646103796.727
+young,woman,yes,negative,Саратов,positive,uncertain,uncertain,1646103827.801,1646103919.054
+aged,man,no,positive,Москва,positive,uncertain,yes,1646103864.087,1646103901.51
+kid,woman,yes,positive,Омск ,positive,negative,yes,1646103906.967,1646103934.899
+kid,man,yes,positive,Буденновск ,negative,positive,no,1646103947.494,1646104020.813
+young,woman,yes,negative,Самара,negative,negative,no,1646104026.119,1646104055.225
+young,man,no,positive,Чебоксары,positive,uncertain,uncertain,1646104032.427,1646104080.473
+kid,woman,yes,negative,Москва,positive,positive,no,1646104042.368,1646104112.328
+young,woman,uncertain,positive,Рязань,positive,negative,yes,1646104073.72,1646104145.045
+young,man,yes,negative,Зеленоград,negative,negative,no,1646104094.662,1646104184.832
+kid,man,yes,negative,Омск,negative,uncertain,uncertain,1646104108.046,1646104153.013
+young,man,yes,negative,Пермь,negative,negative,no,1646104125.37,1646104164.896
+young,man,yes,positive,18,positive,negative,no,1646104201.909,1646104291.133
+young,woman,yes,negative,Архангельск ,positive,uncertain,yes,1646104210.179,1646104267.948
+kid,woman,yes,negative,Омск,negative,negative,yes,1646104217.576,1646104259.732
+young,woman,uncertain,negative,Орёл ,positive,uncertain,uncertain,1646104234.308,1646104270.205
+kid,woman,no,positive,Пермь,positive,negative,yes,1646104281.268,1646104326.362
+young,man,uncertain,negative,Оренбург,negative,uncertain,uncertain,1646104366.938,1646104415.833
+young,man,uncertain,positive,Киров,positive,uncertain,uncertain,1646104413.792,1646104469.444
+kid,woman,no,negative,Москва,positive,uncertain,no,1646104449.176,1646104498.152
+kid,woman,uncertain,negative,Ярославль,negative,uncertain,no,1646104451.376,1646104494.302
+kid,man,yes,positive,Москва,positive,uncertain,yes,1646104456.947,1646104559.882
+kid,woman,uncertain,negative,Самара,negative,uncertain,uncertain,1646104475.098,1646104533.402
+young,woman,uncertain,negative,Курск,negative,uncertain,uncertain,1646104586.289,1646104624.154
+young,woman,uncertain,negative,Омск ,negative,uncertain,yes,1646104603.64,1646104642.604
+kid,man,yes,negative,Москва ,negative,uncertain,no,1646104608.622,1646104668.279
+kid,woman,yes,negative,Ульяновск,negative,negative,no,1646104610.815,1646104666.95
+young,woman,no,positive,Иркутск,positive,positive,no,1646104673.165,1646104743.466
+young,man,yes,negative,Каспийск ,positive,positive,yes,1646104676.81,1646104734.202
+kid,man,yes,positive,Кушва ,positive,negative,yes,1646104694.441,1646104810.577
+young,man,no,positive,Краснотурьинск,positive,positive,uncertain,1646104725.555,1646104769.645
+young,man,yes,positive,Краснодар,positive,negative,yes,1646104751.125,1646104805.372
+kid,man,yes,positive,Грозный,positive,uncertain,yes,1646104758.628,1646104816.083
+young,woman,uncertain,positive,Чита,negative,positive,yes,1646104903.725,1646104933.578
+kid,man,no,positive,Дагестан,positive,negative,yes,1646104920.665,1646104972.783
+kid,woman,uncertain,positive,Владимир ,positive,negative,yes,1646104925.95,1646104965.265
+kid,man,no,positive,Пермский край,negative,negative,yes,1646104948.188,1646105006.504
+kid,man,yes,positive,Мурманская область,positive,positive,yes,1646104963.446,1646105006.075
+young,woman,yes,negative,Москва,negative,uncertain,no,1646104994.864,1646105049.541
+young,woman,yes,negative,самара,negative,uncertain,no,1646105015.426,1646105054.553
+young,woman,uncertain,negative,Домодедово,negative,uncertain,yes,1646105054.036,1646105134.072
+kid,woman,uncertain,negative,Москва ,positive,uncertain,yes,1646105058.502,1646105097.528
+young,woman,yes,negative,Пермь,negative,negative,no,1646105199.922,1646105233.545
+young,man,yes,positive,Москва ,negative,negative,no,1646105218.778,1646105303.82
+kid,woman,uncertain,negative,Нижний Новгород ,negative,uncertain,no,1646105220.177,1646105275.06
+young,woman,uncertain,negative,Москва ,negative,uncertain,uncertain,1646105400.514,1646105442.093
+kid,man,yes,positive,ижевск ,positive,uncertain,yes,1646105434.298,1646105496.503
+young,man,yes,negative,Элиста,negative,uncertain,no,1646105489.999,1646105531.07
+young,woman,yes,negative,Выкса,negative,uncertain,no,1646105522.372,1646105558.127
+young,man,uncertain,negative,Омск,negative,negative,uncertain,1646105537.167,1646105575.728
+young,man,yes,negative,Волгоград ,negative,positive,yes,1646105547.619,1646105609.663
+young,woman,yes,negative,заб край,positive,positive,no,1646105551.645,1646105582.537
+kid,man,yes,positive,Магнитогорск ,negative,negative,yes,1646105557.48,1646105596.167
+young,woman,no,positive,Хакасия ,negative,positive,yes,1646105570.431,1646105622.882
+young,man,uncertain,negative,Москва,negative,uncertain,uncertain,1646105620.613,1646105722.043
+kid,man,uncertain,positive,Нижний Новгород,negative,uncertain,yes,1646105639.214,1646105735.028
+adult,woman,uncertain,positive,Москва ,positive,uncertain,uncertain,1646105665.166,1646105694.546
+kid,man,yes,positive,Ростовская область,positive,uncertain,yes,1646105678.299,1646105753.169
+young,woman,yes,negative,Нижнеудинск ,negative,negative,no,1646105727.604,1646105768.985
+young,woman,uncertain,positive,Камчатский край ,negative,uncertain,uncertain,1646105728.107,1646105803.221
+kid,woman,yes,negative,Красноярсеий край ,positive,negative,no,1646105729.047,1646105785.508
+kid,man,yes,positive,Хасавюрт,negative,uncertain,no,1646105826.275,1646105924.63
+aged,man,no,positive,Москва,positive,positive,yes,1646105886.818,1646105938.591
+kid,woman,no,positive,Приморский край ,positive,negative,no,1646105914.639,1646106005.8
+kid,man,yes,positive,Златоуст ,positive,positive,no,1646105921.568,1646105973.349
+young,woman,yes,negative,Москва,negative,negative,no,1646105930.261,1646105958.939
+young,man,yes,negative,Новосибирск,negative,uncertain,no,1646105942.646,1646105988.507
+young,man,no,positive,Москва,positive,negative,yes,1646105980.032,1646106002.321
+kid,man,uncertain,positive,Москва,positive,positive,yes,1646106001.882,1646106028.527
+young,man,yes,negative,Республика Башкортостан ,positive,uncertain,no,1646106052.85,1646106146.797
+young,woman,yes,negative,Сальск ,negative,negative,no,1646106185.902,1646106235.237
+young,woman,uncertain,negative,Екатеринбург ,positive,uncertain,uncertain,1646106248.281,1646106298.094
+kid,woman,yes,negative,Калуга ,negative,uncertain,uncertain,1646106275.627,1646106311.905
+kid,woman,yes,positive,Коломна,positive,uncertain,uncertain,1646106285.905,1646106349.124
+young,woman,uncertain,negative,Чувашия,positive,uncertain,yes,1646106320.83,1646106362.552
+kid,woman,yes,negative,Москва,negative,uncertain,no,1646106340.678,1646106396.209
+kid,woman,no,positive,Самара,positive,uncertain,uncertain,1646106382.353,1646106430.312
+kid,woman,yes,negative,Сыктывкар ,negative,uncertain,yes,1646106399.373,1646106465.0
+young,woman,uncertain,negative,Архангельск ,positive,uncertain,uncertain,1646106495.725,1646106537.252
+young,man,no,negative,Сыктывкар,negative,negative,no,1646106551.76,1646106571.969
+young,woman,yes,negative,Врх,negative,uncertain,no,1646106585.952,1646106647.216
+young,man,yes,negative,Тверь,negative,negative,no,1646106613.587,1646106642.522
+young,woman,uncertain,negative,Москва ,positive,uncertain,yes,1646106684.285,1646106724.738
+young,woman,yes,negative,Москва,negative,uncertain,no,1646106690.379,1646106777.222
+young,man,uncertain,negative,Йошкар-ола,negative,uncertain,uncertain,1646106717.647,1646106771.575
+kid,woman,uncertain,negative,Москва ,negative,uncertain,uncertain,1646106751.935,1646106907.125
+young,man,no,positive,Омск,negative,uncertain,no,1646106783.352,1646106832.021
+kid,woman,uncertain,positive,Георгиевск,positive,uncertain,uncertain,1646106815.99,1646106886.123
+young,woman,uncertain,negative,марий эл,negative,uncertain,uncertain,1646106825.577,1646106896.59
+kid,woman,yes,positive,Омск,positive,uncertain,yes,1646106866.357,1646106910.976
+kid,man,no,positive,пгт. Новоаганск,positive,negative,yes,1646106870.812,1646106918.033
+kid,man,yes,negative,Санкт-Петербург,negative,negative,no,1646106882.927,1646106940.472
+young,woman,yes,negative,Казань,negative,uncertain,no,1646106890.777,1646107196.492
+kid,woman,yes,positive,Марий Эл,positive,uncertain,uncertain,1646106954.263,1646107032.206
+young,man,uncertain,negative,Рязань ,positive,uncertain,uncertain,1646106967.665,1646107053.781
+young,man,yes,negative,Уинчкое,negative,negative,no,1646106984.48,1646107042.458
+young,man,no,positive,Москва,positive,positive,yes,1646107050.123,1646107078.09
+kid,man,yes,negative,Новосибирск ,negative,positive,yes,1646107084.753,1646107122.773
+young,woman,uncertain,positive,Астрахань,negative,uncertain,no,1646107086.095,1646107150.336
+young,man,yes,negative,Татарстан,negative,negative,no,1646107102.188,1646107165.568
+kid,man,yes,negative,Самара,negative,uncertain,no,1646107188.013,1646107276.794
+young,man,yes,positive,Нижний Новгород ,positive,positive,yes,1646107208.283,1646107262.095
+young,man,yes,negative,Челябинск ,negative,uncertain,yes,1646107307.125,1646107435.156
+young,man,yes,negative,Вологда,negative,positive,yes,1646107330.194,1646107368.099
+young,woman,yes,negative,Челябинск,negative,uncertain,uncertain,1646107335.816,1646107394.559
+young,woman,uncertain,negative,Екатеринбург ,negative,uncertain,uncertain,1646107336.399,1646107405.837
+young,man,no,negative,Москва,negative,uncertain,no,1646107357.018,1646107444.23
+young,man,uncertain,positive,Тамбов,negative,uncertain,uncertain,1646107387.969,1646107424.199
+young,man,yes,positive,Москва,negative,uncertain,yes,1646107393.504,1646107435.987
+kid,woman,no,positive,Москва,positive,uncertain,yes,1646107397.867,1646107458.75
+kid,woman,yes,negative,Москва,negative,negative,no,1646107402.08,1646107444.644
+kid,man,yes,negative,Саратов,positive,negative,yes,1646107414.197,1646107451.164
+young,woman,yes,positive,Ростовская область,negative,uncertain,no,1646107439.983,1646107510.86
+kid,woman,uncertain,positive,Пермь,negative,uncertain,uncertain,1646107456.735,1646107508.747
+young,man,yes,positive,Барабинск,negative,negative,yes,1646107502.363,1646107578.816
+young,woman,yes,negative,Санкт-Петербург,negative,uncertain,no,1646107529.734,1646107561.466
+young,man,uncertain,positive,Архангельск,positive,negative,uncertain,1646107536.926,1646107601.131
+young,man,uncertain,negative,Ростов на дона,negative,uncertain,uncertain,1646107537.879,1646107580.594
+kid,woman,yes,positive,Нижний Новгород ,positive,negative,yes,1646107553.272,1646107589.589
+kid,man,uncertain,positive,Москва,positive,uncertain,yes,1646107593.057,1646107634.98
+young,woman,uncertain,negative,Оренбургская область ,positive,positive,no,1646107616.549,1646107691.059
+kid,woman,no,positive,Оренбург ,positive,uncertain,no,1646107619.802,1646107727.928
+young,woman,no,positive,Тула,positive,uncertain,yes,1646107638.4,1646107680.214
+kid,man,uncertain,positive,Смоленск ,positive,positive,uncertain,1646107651.778,1646107705.285
+young,man,no,positive,Ярославль ,positive,positive,no,1646107707.855,1646107746.62
+young,man,no,negative,Москва,negative,uncertain,no,1646107728.56,1646107780.641
+young,man,no,positive,Белгородская обл ,positive,uncertain,yes,1646107735.958,1646107802.378
+young,woman,yes,negative,Белгород,negative,positive,yes,1646107782.366,1646107874.042
+young,woman,no,positive,Спб,negative,uncertain,yes,1646107807.238,1646107843.365
+young,man,uncertain,negative,Иркутск,negative,uncertain,yes,1646107826.81,1646107871.737
+young,woman,yes,negative,Череповец ,negative,positive,no,1646107837.049,1646107886.596
+young,woman,yes,negative,Санкт-Петербург,negative,positive,no,1646107855.191,1646107933.387
+young,woman,uncertain,negative,Шарья,negative,negative,uncertain,1646107856.719,1646107885.426
+kid,man,yes,positive,Невинномысск,positive,positive,no,1646107865.766,1646107920.517
+kid,man,yes,positive,Москва,negative,uncertain,uncertain,1646107884.598,1646107932.734
+young,man,no,positive,Сочи,positive,uncertain,yes,1646107989.776,1646108025.979
+kid,man,yes,positive,Шахты,positive,uncertain,yes,1646108048.842,1646108119.918
+young,man,yes,negative,Ростов,positive,negative,yes,1646108081.542,1646108174.422
+young,woman,no,positive,Санкт Петербург,negative,positive,no,1646108127.961,1646108191.434
+kid,man,no,positive,Калининград,negative,negative,no,1646108239.023,1646108285.768
+kid,man,no,positive,Волгоград,positive,positive,yes,1646108243.95,1646108280.733
+kid,woman,no,negative,Иркутск ,negative,uncertain,no,1646108269.623,1646108309.171
+young,man,uncertain,positive,Пермь,positive,uncertain,uncertain,1646108319.564,1646108349.072
+young,man,uncertain,positive,Гавно,negative,positive,yes,1646108322.514,1646108356.449
+young,woman,uncertain,negative,Калуга,negative,uncertain,uncertain,1646108330.147,1646108389.249
+young,woman,yes,negative,Кирово Чепецк,negative,uncertain,yes,1646108399.732,1646108468.989
+young,woman,yes,negative,Приморский край,negative,uncertain,no,1646108417.582,1646108482.779
+young,man,uncertain,negative,Санкт-Петербурге ,negative,uncertain,no,1646108453.085,1646108509.53
+young,man,uncertain,positive,Новокузнецк,positive,uncertain,uncertain,1646108482.877,1646108532.926
+young,man,no,positive,Смоленск,positive,positive,yes,1646108550.86,1646108604.284
+kid,man,yes,positive,Москва,positive,uncertain,uncertain,1646108584.324,1646108673.009
+young,man,yes,negative,Челябинск,negative,uncertain,no,1646108601.549,1646108635.571
+young,woman,uncertain,negative,Свердловская область город артёмовский ,negative,uncertain,uncertain,1646108649.236,1646108708.08
+kid,man,uncertain,positive,Заводоуковск ,negative,uncertain,no,1646108694.066,1646108758.367
+kid,woman,uncertain,positive,Кострома,negative,uncertain,yes,1646108700.444,1646108755.366
+young,man,uncertain,positive,Россия,positive,negative,uncertain,1646108786.304,1646108822.239
+young,woman,yes,negative,Санкт-Петербург ,negative,uncertain,uncertain,1646108821.87,1646108887.098
+young,woman,uncertain,negative,Омск,negative,negative,yes,1646108834.048,1646108866.446
+kid,man,yes,negative,Москва,negative,negative,no,1646108973.144,1646109002.081
+kid,woman,yes,negative,Приморский край,negative,negative,yes,1646109042.419,1646109101.589
+young,man,uncertain,negative,Месягутово,positive,uncertain,uncertain,1646109065.431,1646109112.191
+aged,woman,no,positive,поволжье,positive,positive,yes,1646109115.687,1646109179.876
+young,woman,uncertain,positive,Ростовская область,negative,uncertain,uncertain,1646109123.743,1646109237.217
+young,woman,yes,positive,Тверь,negative,negative,no,1646109143.382,1646109207.061
+kid,woman,uncertain,positive,копейск,negative,uncertain,uncertain,1646109145.533,1646109262.801
+kid,man,uncertain,positive,Омск,negative,negative,yes,1646109157.739,1646109184.822
+young,woman,yes,positive,Чита ,positive,uncertain,yes,1646109231.743,1646109261.131
+young,man,no,positive,Нижний Новгород,negative,uncertain,yes,1646109337.37,1646109379.121
+kid,woman,yes,positive,Ува,negative,uncertain,yes,1646109362.171,1646109397.796
+kid,woman,uncertain,negative,1,negative,uncertain,uncertain,1646109428.758,1646109449.016
+young,man,yes,positive,Уфа,negative,uncertain,uncertain,1646109639.997,1646109672.148
+young,man,no,negative,Балаково,negative,negative,no,1646109645.94,1646109704.977
+young,woman,no,positive,Санкт-Петербург,negative,uncertain,no,1646109649.564,1646109688.262
+kid,woman,uncertain,positive,усогорск,positive,uncertain,yes,1646109668.019,1646109719.519
+young,man,yes,positive,Ростов,positive,negative,yes,1646109670.892,1646109702.504
+kid,man,uncertain,negative,Чагода,negative,negative,no,1646109671.237,1646109705.737
+kid,man,uncertain,negative,Курчалойевский,positive,uncertain,uncertain,1646109699.412,1646109810.898
+kid,woman,yes,positive,ЯНАО,positive,uncertain,yes,1646109706.671,1646109746.934
+young,man,yes,negative,Ивня,negative,uncertain,uncertain,1646109711.637,1646109778.756
+young,woman,uncertain,positive,Томск,positive,positive,uncertain,1646109713.408,1646109796.051
+kid,woman,uncertain,positive,москва ,positive,uncertain,yes,1646109765.465,1646109802.85
+young,man,uncertain,positive,Москва,positive,uncertain,uncertain,1646109765.152,1646109831.999
+kid,woman,uncertain,positive,Москва ,positive,negative,yes,1646109809.802,1646109856.073
+kid,woman,yes,negative,москва,negative,uncertain,no,1646109845.253,1646109902.508
+young,man,no,positive,Ростовская область ,negative,uncertain,yes,1646109899.443,1646109960.856
+young,woman,yes,negative,нижневартовск ,positive,uncertain,no,1646109968.076,1646110020.764
+kid,woman,uncertain,positive,Георгиевск,negative,uncertain,yes,1646110026.111,1646110067.784
+kid,woman,uncertain,negative,Саратов,negative,uncertain,no,1646110044.651,1646110107.335
+kid,woman,yes,negative,ростов,negative,uncertain,no,1646110062.205,1646110106.987
+young,woman,uncertain,negative,Москва,positive,uncertain,yes,1646110089.77,1646110139.321
+young,man,yes,negative,ХМАО,negative,negative,no,1646110132.476,1646110228.953
+young,man,uncertain,positive,Москва,positive,positive,no,1646110159.26,1646110196.538
+kid,man,uncertain,negative,Пермь ,negative,uncertain,yes,1646110171.919,1646110217.589
+young,man,yes,negative,Москва ,negative,positive,no,1646110172.767,1646110241.813
+kid,woman,no,negative,Р-п Перелешинский ,positive,uncertain,yes,1646110201.638,1646110274.317
+young,woman,no,negative,Москва,positive,uncertain,yes,1646110276.684,1646110376.934
+kid,man,yes,positive,Москва ,positive,uncertain,yes,1646110282.562,1646110371.872
+kid,man,no,positive,Иркутск ,positive,uncertain,yes,1646110330.5,1646110392.888
+young,man,no,positive,Курск,positive,positive,uncertain,1646110335.159,1646110368.609
+young,man,yes,negative,Тюмень,negative,uncertain,yes,1646110354.468,1646110437.554
+young,woman,yes,negative,Белебей,negative,uncertain,no,1646110388.287,1646110476.19
+young,woman,uncertain,positive,Омск ,negative,uncertain,uncertain,1646110422.126,1646110459.3
+kid,man,yes,positive,Ставрополь,positive,positive,yes,1646110425.891,1646110560.42
+kid,man,no,positive,Каменск-уральский,positive,uncertain,yes,1646110443.511,1646110513.878
+kid,woman,uncertain,positive,Ставрополь ,positive,uncertain,uncertain,1646110518.961,1646110580.67
+young,man,yes,negative,Казань ,negative,uncertain,no,1646110527.612,1646110598.691
+young,man,uncertain,negative,Москва,positive,uncertain,uncertain,1646110594.034,1646110632.196
+young,man,uncertain,positive,Москва,positive,negative,uncertain,1646110642.919,1646110694.054
+young,man,yes,positive,Хабаровск край,positive,positive,yes,1646110752.956,1646110840.594
+young,man,yes,positive,Санкт петербург,positive,uncertain,yes,1646110766.107,1646110872.667
+young,man,yes,positive,Тулун,positive,positive,yes,1646110781.378,1646110820.415
+young,woman,uncertain,negative,Москва,negative,uncertain,uncertain,1646110790.681,1646110824.315
+kid,man,yes,positive,Чебоксары,positive,positive,yes,1646110799.805,1646110821.237
+young,man,yes,negative,Москва,negative,negative,no,1646110810.315,1646110848.33
+young,woman,yes,negative,Краснодарский край,negative,positive,no,1646110812.274,1646110892.206
+young,woman,uncertain,negative,Мурманск,negative,uncertain,no,1646110830.072,1646110897.761
+kid,woman,uncertain,positive,Приморский край ,positive,uncertain,yes,1646110840.334,1646110890.314
+kid,woman,yes,negative,Ленинградская область ,negative,uncertain,uncertain,1646110861.796,1646110897.334
+young,man,yes,negative,москва,positive,negative,no,1646110870.365,1646110989.31
+young,man,uncertain,positive,Брянская область,positive,uncertain,uncertain,1646110871.97,1646110935.585
+kid,woman,no,negative,Иркутск,negative,uncertain,no,1646110912.997,1646110954.205
+young,man,yes,negative,Череповец,negative,negative,no,1646110957.672,1646111010.98
+kid,woman,uncertain,negative,Санкт-Петербург,negative,uncertain,uncertain,1646110959.501,1646111037.765
+kid,woman,uncertain,positive,Казань ,positive,uncertain,uncertain,1646111091.339,1646111143.623
+young,man,uncertain,positive,Москва,negative,negative,yes,1646111119.218,1646111153.952
+kid,man,uncertain,negative,Москва ,positive,uncertain,uncertain,1646111168.736,1646111289.759
+kid,woman,uncertain,positive,Бодайбо ,negative,uncertain,no,1646111262.482,1646111345.258
+young,woman,uncertain,negative,Тула,negative,uncertain,uncertain,1646111282.052,1646111354.284
+kid,man,uncertain,negative,Улан-удэ ,negative,uncertain,uncertain,1646111374.84,1646111478.395
+young,man,uncertain,positive,Башкирия,positive,uncertain,yes,1646111455.66,1646111513.307
+kid,man,uncertain,positive,Москва ,positive,uncertain,uncertain,1646111477.361,1646111521.713
+kid,man,yes,negative,Москва ,positive,negative,yes,1646111506.419,1646111630.086
+young,man,yes,positive,Михайлов ,positive,negative,no,1646111610.902,1646111682.798
+young,woman,no,positive,Алтай,negative,uncertain,uncertain,1646111615.789,1646111868.321
+young,man,uncertain,positive,Москва,positive,negative,yes,1646111620.384,1646111674.615
+young,woman,yes,positive,Самара,negative,uncertain,no,1646111722.721,1646111819.066
+young,woman,yes,positive,"Благовещенск, Амурская область ",positive,uncertain,yes,1646111761.579,1646111824.177
+young,woman,uncertain,positive,Казань,negative,uncertain,yes,1646111804.878,1646111839.58
+kid,woman,no,negative,Кудрякево ,negative,negative,yes,1646111804.138,1646111839.58
+kid,man,uncertain,negative,Москва ,positive,uncertain,uncertain,1646111860.21,1646111904.996
+kid,woman,uncertain,negative,Ск,negative,uncertain,uncertain,1646111898.643,1646111943.158
+young,man,no,positive,Владимирский,positive,uncertain,no,1646111929.646,1646112012.807
+young,man,uncertain,positive,Саранск,negative,negative,yes,1646111964.451,1646112017.778
+young,woman,yes,negative,Кемерово,positive,uncertain,no,1646112024.007,1646112126.464
+young,woman,yes,positive,Киров ,negative,uncertain,yes,1646112133.98,1646112199.327
+kid,woman,yes,positive,Москва,positive,uncertain,yes,1646112171.898,1646112211.368
+kid,woman,uncertain,negative,Москва,negative,uncertain,no,1646112198.902,1646112260.591
+kid,man,uncertain,positive,Санкт - Петербург,positive,uncertain,uncertain,1646112232.129,1646112308.004
+kid,man,yes,positive,Томск,positive,negative,no,1646112280.513,1646112328.519
+young,man,uncertain,positive,Иркутск,positive,positive,no,1646112297.342,1646112352.777
+young,woman,no,positive,Краснодар,positive,uncertain,yes,1646112323.538,1646112411.164
+young,woman,uncertain,negative,Тюмень ,negative,uncertain,uncertain,1646112332.345,1646112385.814
+kid,man,no,positive,Казань ,positive,uncertain,yes,1646112442.943,1646112496.814
+young,man,no,positive,Тверь,positive,positive,yes,1646112465.104,1646112528.31
+young,woman,yes,positive,Саранск ,positive,positive,yes,1646112479.59,1646112515.598
+adult,woman,yes,negative,Омск ,negative,negative,no,1646112480.216,1646112557.283
+young,woman,yes,negative,Татарстан,negative,negative,no,1646112514.813,1646112549.398
+kid,man,no,positive,Волгоград ,negative,negative,yes,1646112560.018,1646112615.159
+kid,man,uncertain,negative,Москва,positive,uncertain,uncertain,1646112585.962,1646112629.381
+kid,woman,no,negative,Москва ,positive,uncertain,uncertain,1646112586.276,1646112773.807
+young,man,no,negative,Уфа,positive,uncertain,uncertain,1646112591.695,1646112685.505
+young,woman,yes,negative,Арзамас,negative,uncertain,yes,1646112596.545,1646112642.703
+kid,man,yes,negative,Сибай,negative,negative,yes,1646112614.695,1646112673.381
+kid,woman,yes,negative,Москва  ,positive,uncertain,no,1646112639.642,1646112700.265
+young,woman,uncertain,positive,Ростов,positive,uncertain,uncertain,1646112643.682,1646112701.934
+young,woman,uncertain,positive,Красноярск,negative,uncertain,no,1646112656.824,1646112795.258
+young,woman,yes,negative,Ижевск,negative,negative,no,1646112682.91,1646112885.107
+young,woman,uncertain,negative,Чувашия,positive,uncertain,uncertain,1646112763.576,1646112817.331
+young,man,yes,negative,Омск,negative,negative,no,1646112768.397,1646112806.37
+young,man,yes,negative,Струнино,positive,uncertain,no,1646112803.915,1646112847.993
+young,man,yes,negative,Оренбург ,negative,uncertain,uncertain,1646112811.516,1646112857.857
+kid,woman,uncertain,negative,Ступино ,positive,uncertain,uncertain,1646112814.72,1646112876.652
+young,man,no,positive,Москва,positive,negative,no,1646112853.974,1646112880.345
+young,man,no,negative,Подольск ,negative,negative,uncertain,1646112886.136,1646112925.988
+kid,man,no,positive,Москва,negative,negative,no,1646112915.944,1646112960.934
+young,man,no,positive,Самара. Слава России и Путину! Мы кремлеботы Абучана.,positive,positive,yes,1646112924.189,1646112966.757
+young,man,yes,positive,Краснодар,positive,positive,no,1646112949.692,1646113016.403
+young,woman,no,positive,Уфа,positive,positive,yes,1646112976.72,1646113056.614
+young,man,yes,positive,Ухта,positive,uncertain,uncertain,1646113206.586,1646113246.933
+young,woman,no,positive,Калуга,positive,positive,yes,1646113240.787,1646113375.454
+young,woman,no,positive,Тюмень,negative,uncertain,yes,1646113257.738,1646113301.378
+young,man,uncertain,negative,Кстово,positive,uncertain,yes,1646113281.736,1646113354.973
+young,man,yes,positive,Казань,negative,uncertain,yes,1646113288.776,1646113328.852
+young,man,no,positive,Нижний Новгород,positive,positive,yes,1646124847.306,1646124917.984
+young,man,yes,positive,Новгородская область,negative,negative,no,1646124850.091,1646124885.368
+young,man,no,positive,Московская область,positive,positive,yes,1646124854.937,1646124893.388
+kid,man,no,negative,Пермь,negative,negative,no,1646124873.511,1646124917.616
+young,woman,no,positive,Ростовская область ,positive,uncertain,yes,1646124893.503,1646124940.082
+young,man,yes,negative,Московская область,negative,negative,no,1646124915.32,1646125007.067
+kid,man,yes,negative,Москва,positive,uncertain,yes,1646124917.988,1646124957.933
+young,woman,uncertain,positive,Тюмень,negative,uncertain,yes,1646124930.561,1646124992.581
+kid,man,uncertain,negative,Кингисепп,positive,uncertain,no,1646124931.117,1646124989.606
+young,woman,uncertain,negative,Рязань,positive,uncertain,no,1646124982.749,1646125056.782
+young,woman,yes,negative,Саратовская область,negative,negative,no,1646125001.786,1646125050.562
+young,man,yes,positive,Москва,positive,negative,yes,1646125026.217,1646125059.006
+kid,man,no,positive,Тольятти,negative,positive,uncertain,1646125053.198,1646125117.398
+kid,man,yes,positive,Гуково,positive,uncertain,yes,1646125076.596,1646125121.157
+young,man,no,negative,Санкт-Петербург,positive,positive,no,1646125082.777,1646125106.592
+young,man,no,negative,Нижний Новгород,negative,negative,uncertain,1646125097.468,1646125159.213
+young,woman,yes,positive,Москва,positive,uncertain,yes,1646125101.333,1646125173.365
+young,woman,no,positive,Мурманск,positive,uncertain,yes,1646125117.038,1646125214.609
+young,man,yes,positive,Иркутск ,positive,uncertain,yes,1646125120.402,1646125159.609
+young,woman,uncertain,negative,Иркутск,negative,uncertain,uncertain,1646125125.683,1646125191.314
+young,woman,yes,positive,Рязань ,negative,negative,yes,1646125191.897,1646125240.91
+kid,man,uncertain,positive,Алтайский край,positive,positive,yes,1646125214.512,1646125238.81
+young,man,yes,negative,Санкт-Петербург ,negative,uncertain,yes,1646125214.827,1646125299.82
+young,man,uncertain,positive,Павлово,negative,uncertain,yes,1646125225.387,1646125277.963
+young,woman,yes,negative,Лобня,negative,positive,no,1646125235.891,1646125271.789
+young,man,yes,negative,Москва,positive,positive,yes,1646125261.819,1646125303.873
+young,woman,yes,negative,Саратов,negative,uncertain,no,1646125266.824,1646125313.233
+young,woman,yes,negative,Новосибирск ,negative,negative,no,1646125287.193,1646125329.195
+young,woman,no,positive,Волгоград ,negative,uncertain,uncertain,1646125311.556,1646125343.651
+young,man,yes,positive,Хабаровский край,positive,uncertain,yes,1646125345.844,1646125385.644
+young,man,uncertain,negative,Красноярск ,positive,positive,yes,1646125356.668,1646125390.696
+young,man,no,positive,нижегородская область,positive,positive,yes,1646125367.878,1646125408.967
+young,man,yes,negative,Красноярск ,positive,positive,yes,1646125370.89,1646125567.133
+kid,woman,uncertain,negative,Уфа,negative,uncertain,uncertain,1646125373.051,1646125411.056
+young,man,yes,positive,Москва,positive,uncertain,yes,1646125384.16,1646125492.731
+kid,man,no,negative,Волгоград,positive,uncertain,no,1646125388.087,1646125425.371
+kid,woman,yes,negative,Ижевск ,negative,negative,no,1646125389.885,1646125435.071
+kid,woman,uncertain,positive,Москва,positive,uncertain,uncertain,1646125395.661,1646125436.081
+kid,man,uncertain,negative,Курганская область,negative,uncertain,uncertain,1646125398.848,1646125498.142
+young,woman,yes,negative,москва,negative,uncertain,no,1646125438.496,1646125481.347
+kid,man,no,positive,москва,negative,positive,uncertain,1646125448.778,1646125501.823
+young,man,yes,negative,Смоленск,positive,uncertain,no,1646125455.021,1646125514.008
+young,woman,yes,negative,Санкт-Петербург,negative,negative,no,1646125479.385,1646125518.875
+kid,man,yes,positive,Гуково,negative,negative,uncertain,1646125489.376,1646125546.19
+young,man,no,positive,Уссурийск,positive,positive,yes,1646125520.962,1646125586.779
+young,man,no,negative,Москва,negative,negative,yes,1646125526.57,1646125570.153
+young,woman,no,positive,Тверь,negative,uncertain,yes,1646125541.616,1646125690.338
+young,man,no,positive,Чебоксары,positive,positive,uncertain,1646125553.006,1646125594.771
+young,man,uncertain,positive,Москва ,negative,positive,yes,1646125554.453,1646125606.737
+kid,man,no,positive,Красноярск,negative,negative,yes,1646125602.855,1646125661.79
+kid,woman,uncertain,positive,Омск,negative,uncertain,uncertain,1646125606.308,1646125647.906
+kid,man,yes,positive,Москва,positive,positive,yes,1646125611.995,1646125628.92
+kid,man,yes,positive,Россия,positive,negative,yes,1646125616.074,1646125673.748
+young,man,yes,negative,Смоленск,negative,uncertain,no,1646125646.692,1646125695.938
+kid,man,yes,negative,Москва,negative,negative,no,1646125658.217,1646125709.399
+young,man,no,negative,Якутск,negative,negative,no,1646125688.491,1646125784.949
+kid,man,yes,negative,Барабинск ,negative,uncertain,no,1646125695.734,1646125730.971
+kid,man,uncertain,positive,Волгоград,positive,uncertain,yes,1646125696.213,1646125755.48
+young,man,yes,positive,Смоленск,positive,negative,yes,1646125698.869,1646125743.884
+young,man,yes,positive,Москва ,positive,positive,yes,1646125698.506,1646125758.555
+kid,man,uncertain,positive,Ставрополь,negative,negative,no,1646125752.449,1646125804.85
+young,man,uncertain,negative,омская область,negative,uncertain,uncertain,1646125769.252,1646125801.588
+young,woman,no,positive,смоленск,negative,uncertain,yes,1646125780.847,1646125836.78
+young,woman,uncertain,positive,Пермь,positive,uncertain,yes,1646125790.738,1646125836.034
+young,woman,no,positive,Краснодар,positive,positive,yes,1646125791.778,1646125854.198
+kid,man,yes,positive,Москва,positive,uncertain,uncertain,1646125825.138,1646125873.43
+young,woman,yes,negative,Волгодонск,negative,uncertain,no,1646125851.743,1646125974.011
+young,man,no,positive,Рязань,positive,uncertain,yes,1646125853.983,1646125928.272
+young,woman,yes,negative,Ростов на дону ,negative,uncertain,yes,1646125865.987,1646125917.965
+young,woman,yes,positive,Краснодар ,negative,uncertain,uncertain,1646125890.496,1646125989.956
+kid,man,uncertain,negative,Москва ,negative,uncertain,uncertain,1646126034.72,1646126085.688
+kid,man,no,positive,Москва,positive,uncertain,yes,1646126047.933,1646126088.063
+kid,man,yes,negative,Самара,negative,uncertain,no,1646126049.89,1646126098.074
+young,man,yes,positive,Бийск,positive,uncertain,yes,1646126051.329,1646126114.238
+kid,man,yes,negative,Уфа ,negative,negative,uncertain,1646126077.981,1646126133.478
+kid,woman,yes,positive,Белгород,positive,positive,yes,1646126125.213,1646126167.26
+kid,woman,uncertain,negative,Москва,positive,uncertain,yes,1646126125.971,1646126220.859
+young,man,yes,negative,уфа,negative,negative,no,1646126270.346,1646126305.875
+young,woman,uncertain,negative,Санкт-Петербург,negative,uncertain,uncertain,1646126304.632,1646126342.515
+young,woman,yes,positive,Вологда,positive,negative,uncertain,1646126421.729,1646126459.932
+kid,woman,yes,positive,Краснодарский край ,negative,positive,no,1646126441.185,1646126530.473
+young,woman,yes,negative,Нижние Серги,positive,uncertain,no,1646126446.131,1646126493.579
+kid,woman,no,positive,Елабуга,positive,uncertain,yes,1646126451.716,1646126503.017
+young,woman,yes,positive,Рязань,negative,uncertain,no,1646126456.928,1646126496.307
+kid,woman,uncertain,negative,Бурятия,positive,uncertain,uncertain,1646126472.853,1646126532.659
+young,woman,yes,negative,Кемерово ,positive,uncertain,uncertain,1646126508.014,1646126574.079
+aged,woman,no,positive,п,negative,uncertain,yes,1646126510.653,1646126543.797
+adult,woman,yes,positive,москвв,positive,positive,uncertain,1646126534.782,1646126591.445
+young,man,uncertain,negative,Екатеринбург,negative,uncertain,uncertain,1646126546.011,1646126584.829
+young,man,yes,negative,Москва,negative,positive,no,1646126594.308,1646126641.357
+young,man,yes,negative,Томск,positive,positive,uncertain,1646126632.603,1646127068.373
+young,woman,uncertain,positive,кирово-чепецк,negative,uncertain,yes,1646126645.968,1646126736.534
+kid,woman,uncertain,positive,Рязан3,positive,uncertain,uncertain,1646126664.688,1646126774.31
+kid,woman,yes,negative,ростовская область город константиновск ,negative,uncertain,uncertain,1646126665.03,1646126748.942
+adult,man,yes,positive,москва,positive,positive,uncertain,1646126703.224,1646126760.482
+young,woman,yes,negative,Реутов,negative,uncertain,no,1646126751.535,1646126801.132
+young,man,no,positive,Челябинск,negative,positive,yes,1646126814.57,1646126864.242
+young,woman,uncertain,positive,Тюмень ,positive,positive,yes,1646126822.452,1646126858.642
+young,man,no,positive,Волгоград,negative,positive,yes,1646126851.444,1646126879.193
+young,man,yes,positive,Ногинск,positive,uncertain,yes,1646126855.394,1646126891.992
+young,man,yes,negative,Удмуртия ,negative,negative,no,1646126884.102,1646126934.573
+young,man,no,negative,Москва,negative,uncertain,no,1646127055.114,1646127125.27
+kid,man,yes,positive,Башкирия,negative,uncertain,yes,1646127059.978,1646127128.044
+young,man,uncertain,positive,Тюмень ,positive,uncertain,yes,1646127066.611,1646127136.657
+young,woman,uncertain,positive,Барнаул,negative,uncertain,yes,1646127095.264,1646127169.755
+young,man,yes,negative,Рнд,negative,uncertain,uncertain,1646127101.601,1646127151.341
+kid,man,yes,positive,Челябинск ,negative,negative,no,1646127136.254,1646127208.084
+young,woman,yes,negative,Москва ,negative,uncertain,no,1646127159.203,1646127205.283
+young,man,no,negative,Пермь,positive,uncertain,yes,1646127184.595,1646127242.718
+young,woman,yes,negative,"Самарская область , Тольятти",negative,uncertain,no,1646127188.769,1646127242.763
+young,man,yes,positive,Новгородская область,negative,negative,no,1646127191.234,1646127255.529
+kid,man,no,negative,Новосибирск ,positive,uncertain,no,1646127236.945,1646127329.64
+young,man,yes,negative,Алтайский край,negative,negative,no,1646127288.991,1646127332.304
+kid,man,uncertain,negative,уфа,negative,uncertain,yes,1646127345.854,1646127399.365
+kid,man,yes,negative,Пермь ,positive,uncertain,yes,1646127345.489,1646127396.052
+young,woman,uncertain,positive,Москва,positive,uncertain,yes,1646127391.878,1646127452.06
+kid,man,no,positive,Санкт-Петербург ,positive,positive,yes,1646127393.585,1646127447.383
+kid,woman,uncertain,positive,Бухара ,positive,uncertain,uncertain,1646127401.899,1646127460.264
+kid,man,yes,positive,Ульяновск,positive,uncertain,yes,1646127469.465,1646127506.382
+young,woman,uncertain,negative,Самара,positive,uncertain,no,1646127530.143,1646127589.51
+kid,woman,yes,negative,казань,negative,negative,yes,1646127585.691,1646127612.37
+young,man,yes,positive,Калуга,positive,negative,yes,1646127636.004,1646127674.405
+kid,man,yes,negative,Альметьевск ,positive,uncertain,uncertain,1646127680.888,1646127770.037
+young,woman,yes,negative,Ростов-На-Дону,negative,negative,no,1646127690.978,1646127797.429
+young,woman,uncertain,positive,Новороссийск ,negative,uncertain,uncertain,1646127815.481,1646127860.976
+kid,man,yes,positive,Тюмень ,positive,uncertain,uncertain,1646127815.818,1646127859.536
+kid,woman,yes,negative,москва ,negative,positive,no,1646127943.872,1646128048.309
+young,woman,yes,negative,Нижний Новгород,negative,uncertain,no,1646127959.222,1646127992.528
+young,man,no,positive,Санкт-Петербург,positive,uncertain,yes,1646127970.627,1646128018.851
+young,woman,yes,negative,Краснодар,negative,uncertain,uncertain,1646127995.183,1646128043.541
+young,man,uncertain,positive,Мурманская область,positive,uncertain,uncertain,1646128006.757,1646128054.476
+young,woman,yes,positive,Москва,positive,uncertain,yes,1646128048.922,1646128095.197
+kid,man,uncertain,positive,Челябинск,positive,uncertain,uncertain,1646128223.256,1646128261.624
+kid,woman,yes,negative,Иркутская область ,negative,uncertain,uncertain,1646128248.53,1646128303.821
+young,woman,yes,negative,Самара,negative,uncertain,no,1646128305.42,1646128394.204
+young,woman,no,negative,Москва ,negative,negative,no,1646128361.332,1646128404.77
+kid,man,yes,negative,"Белгородская область, Старый Оскол",positive,uncertain,no,1646128366.7,1646128512.032
+young,man,yes,positive,Caмapa,negative,negative,no,1646128393.741,1646128524.682
+kid,woman,yes,negative,Москва ,positive,positive,no,1646128414.95,1646128709.019
+kid,man,no,positive,Самара,positive,positive,yes,1646128415.458,1646128458.028
+young,man,yes,negative,курск,negative,uncertain,no,1646128468.313,1646128503.108
+young,man,no,negative,Ижевск,positive,positive,yes,1646128490.472,1646128562.143
+young,woman,yes,negative,Заводоуковск ,negative,uncertain,yes,1646128497.446,1646128543.547
+kid,woman,no,positive,самара,positive,uncertain,yes,1646128529.859,1646128598.844
+young,woman,uncertain,positive,Ижевск ,negative,uncertain,uncertain,1646128536.893,1646128583.109
+young,woman,yes,positive,Наро-Фоминск,negative,uncertain,uncertain,1646128659.17,1646128692.696
+kid,man,yes,positive,Россия,positive,positive,yes,1646128713.414,1646128754.153
+young,woman,yes,negative,Ярославль,negative,negative,no,1646128728.311,1646128759.194
+young,man,yes,negative,новосибирск,negative,negative,no,1646128784.124,1646128855.986
+kid,woman,yes,negative,Омская область,negative,uncertain,no,1646128813.776,1646128922.796
+kid,man,yes,negative,Кемь,positive,positive,no,1646128844.353,1646128884.479
+young,man,yes,positive,Санкт-Петербург,positive,uncertain,uncertain,1646128874.452,1646128902.274
+young,woman,yes,negative,Ростовская область ,positive,negative,no,1646128943.802,1646128997.53
+young,man,uncertain,negative,Тверь,negative,uncertain,uncertain,1646128994.937,1646129037.303
+young,man,yes,positive,Масква,negative,negative,yes,1646128999.521,1646129046.729
+young,woman,yes,negative,Тюмень,negative,uncertain,uncertain,1646129014.582,1646129131.987
+kid,man,uncertain,negative,Каспийск ,negative,uncertain,uncertain,1646129020.286,1646129068.75
+young,woman,uncertain,negative,Самара,negative,uncertain,no,1646129065.381,1646129120.608
+kid,man,no,positive,Нижегородская область,positive,positive,yes,1646129138.078,1646129179.824
+young,man,no,positive,Самара,negative,negative,no,1646129180.222,1646129215.512
+young,woman,uncertain,negative,Москва ,negative,uncertain,uncertain,1646129195.516,1646129249.219
+kid,man,no,negative,пермь,negative,uncertain,yes,1646129195.912,1646129229.408
+young,man,yes,negative,Грозный,negative,uncertain,uncertain,1646129209.508,1646129242.965
+young,man,uncertain,negative,Ро,negative,uncertain,uncertain,1646129230.524,1646129271.233
+young,woman,uncertain,positive,санкт-петербург,negative,negative,uncertain,1646129239.153,1646129307.848
+young,woman,yes,negative,Барнаул,negative,uncertain,no,1646129265.635,1646129340.172
+kid,man,yes,positive,Саратов,positive,positive,yes,1646129268.33,1646129364.274
+kid,woman,uncertain,negative,Екатеринбург,positive,negative,no,1646129327.65,1646129377.747
+young,man,no,positive,Республика Бурятия ,negative,negative,uncertain,1646129377.247,1646129438.23
+young,man,uncertain,positive,Талица,positive,uncertain,yes,1646129424.289,1646129481.745
+young,man,yes,positive,Саратов,positive,uncertain,no,1646129472.671,1646129534.668
+kid,woman,yes,positive,Екатеринбург ,negative,uncertain,uncertain,1646129590.252,1646129665.877
+kid,man,uncertain,positive,Татарстан,negative,uncertain,yes,1646129594.424,1646129641.026
+young,woman,uncertain,positive,Саратов,negative,uncertain,uncertain,1646129619.229,1646129664.017
+young,man,no,positive,Новосибирск ,positive,uncertain,yes,1646129655.354,1646129739.539
+young,woman,yes,negative,Москва ,negative,uncertain,uncertain,1646129750.971,1646129804.884
+young,man,yes,positive,Барнаул,negative,positive,yes,1646129797.513,1646129927.406
+kid,man,no,positive,Великий Новгород,positive,uncertain,yes,1646129898.021,1646129957.892
+kid,man,no,positive,Самара,positive,negative,yes,1646129914.263,1646129965.062
+young,man,no,negative,Челябинск,positive,positive,no,1646129944.09,1646130034.024
+kid,woman,uncertain,positive,смоленск,positive,negative,yes,1646129981.455,1646130028.366
+young,man,yes,negative,хуй,negative,negative,uncertain,1646129991.024,1646130100.337
+young,man,no,positive,Краснодар,positive,negative,yes,1646129992.412,1646130038.526
+young,man,yes,negative,Республика Татарстан,positive,uncertain,no,1646130030.268,1646130099.384
+young,woman,uncertain,negative,Ревда,negative,uncertain,uncertain,1646130038.019,1646130087.114
+kid,woman,uncertain,negative,Ростов,positive,positive,yes,1646130038.931,1646130103.485
+young,man,uncertain,positive,Москва,positive,uncertain,yes,1646130040.871,1646130105.225
+young,man,yes,negative,Москва,negative,uncertain,no,1646130060.538,1646130102.39
+young,man,yes,negative,Омская область,negative,negative,no,1646130063.782,1646130096.062
+young,man,yes,negative,Тюмень,negative,negative,no,1646130076.867,1646130118.777
+young,woman,yes,negative,Москва,negative,uncertain,no,1646130122.887,1646130149.817
+young,man,yes,negative,Тверская обл,negative,uncertain,uncertain,1646130162.486,1646130202.184
+young,man,yes,positive,Иркутск ,positive,uncertain,yes,1646130197.168,1646130248.81
+kid,woman,yes,negative,Москва ,negative,uncertain,no,1646130223.146,1646130299.539
+young,man,uncertain,negative,Уфа,negative,uncertain,uncertain,1646130260.082,1646130315.097
+young,man,uncertain,positive,Москва ,negative,uncertain,yes,1646130311.491,1646130362.98
+young,woman,uncertain,negative,Воронеж,negative,negative,no,1646130333.904,1646130383.186
+kid,man,yes,positive,Казань,negative,uncertain,yes,1646130360.464,1646130395.947
+kid,woman,uncertain,negative,москва ,positive,uncertain,uncertain,1646130416.753,1646130472.842
+kid,man,uncertain,negative,Казань,positive,negative,no,1646130904.986,1646130952.799
